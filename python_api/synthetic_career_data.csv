@@ -1,0 +1,701 @@
+user_id,age,education,location,event_index,title,company,industry,start_date,end_date,salary_min,salary_max,skills,tenure_months,remote_flag
+user_0000,40,bachelor,Delhi,0,junior engineer,company_65,EdTech,2016-04-19,2017-04-14,42241,56322,"[""testing"", ""python""]",12,0
+user_0000,40,bachelor,Delhi,1,engineer,company_44,Healthcare,2017-07-02,2021-05-12,55735,74313,"[""git"", ""testing""]",47,0
+user_0000,40,bachelor,Delhi,2,senior engineer,company_49,IT,2018-07-08,2020-09-25,62706,83608,"[""communication"", ""testing"", ""python"", ""kubernetes"", ""design""]",27,1
+user_0000,40,bachelor,Delhi,3,analyst,company_49,Healthcare,2019-06-14,2020-12-05,102725,136966,"[""excel"", ""sql""]",18,1
+user_0001,25,bachelor,Chennai,0,intern,company_8,Finance,2018-08-21,2019-12-14,28575,38101,"[""communication"", ""linux"", ""excel"", ""prompting"", ""python""]",16,0
+user_0001,25,bachelor,Chennai,1,senior engineer,company_19,Healthcare,2019-07-05,2020-04-30,64310,85747,"[""java"", ""testing"", ""docker"", ""kubernetes""]",10,0
+user_0001,25,bachelor,Chennai,2,lead engineer,company_15,Finance,2020-08-10,2023-11-23,78573,104764,"[""communication"", ""linux"", ""project management"", ""sql"", ""python"", ""design""]",40,0
+user_0001,25,bachelor,Chennai,3,lead engineer,company_38,Manufacturing,2021-08-15,2022-06-11,80373,107164,"[""communication"", ""linux"", ""project management"", ""probability"", ""python"", ""design"", ""docker""]",10,0
+user_0002,50,master,Delhi,0,data scientist,company_15,Healthcare,2019-05-02,2022-06-15,164468,219291,"[""sql"", ""c++"", ""python"", ""statistics"", ""machine learning"", ""docker"", ""data visualization""]",38,1
+user_0002,50,master,Delhi,1,senior data scientist,company_55,Finance,2020-05-09,2023-10-21,177561,236748,"[""testing"", ""deep learning"", ""cloud"", ""python"", ""nlp"", ""statistics"", ""seo""]",42,0
+user_0002,50,master,Delhi,2,senior data scientist,company_71,Finance,2021-07-03,2025-05-13,181906,242541,"[""python"", ""deep learning"", ""nlp"", ""project management""]",47,0
+user_0002,50,master,Delhi,3,devops engineer,company_17,Retail,2022-07-08,2026-04-18,190767,254356,"[""linux"", ""deep learning"", ""aws"", ""kubernetes"", ""design"", ""docker""]",46,1
+user_0003,35,master,Chennai,0,intern,company_44,IT,2018-11-05,2021-02-22,34145,45526,"[""communication"", ""excel""]",28,0
+user_0003,35,master,Chennai,1,junior engineer,company_7,Retail,2019-11-18,2022-09-03,43466,57955,"[""git"", ""python""]",34,0
+user_0004,25,bachelor,Hyderabad,0,analyst,company_28,IT,2015-05-22,2017-11-07,101731,135642,"[""deep learning"", ""excel"", ""aws"", ""sql"", ""data visualization"", ""tableau""]",30,0
+user_0004,25,bachelor,Hyderabad,1,associate,company_31,Manufacturing,2016-05-06,2019-11-17,95229,126973,"[""communication"", ""data visualization"", ""excel"", ""statistics"", ""seo""]",43,0
+user_0004,25,bachelor,Hyderabad,2,senior analyst,company_39,Manufacturing,2017-07-13,2021-02-22,115785,154381,"[""excel"", ""sql"", ""cloud"", ""react"", ""nlp"", ""teamwork"", ""powerbi"", ""data visualization""]",44,1
+user_0005,20,bachelor,Pune,0,intern,company_70,Retail,2018-02-02,2021-03-18,24610,32814,"[""excel"", ""java"", ""communication"", ""python""]",38,1
+user_0005,20,bachelor,Pune,1,junior engineer,company_71,Finance,2019-03-14,2019-09-10,42377,56503,"[""git"", ""testing"", ""python"", ""powerbi""]",6,1
+user_0006,26,master,Chennai,0,data scientist,company_34,Finance,2017-10-29,2018-07-26,164260,219014,"[""machine learning"", ""sql""]",9,1
+user_0006,26,master,Chennai,1,senior data scientist,company_6,Healthcare,2018-11-20,2022-04-03,176542,235389,"[""deep learning"", ""aws"", ""sql"", ""python"", ""nlp"", ""statistics"", ""kubernetes"", ""teamwork""]",41,0
+user_0006,26,master,Chennai,2,devops engineer,company_53,IT,2019-10-10,2022-01-27,198155,264207,"[""git"", ""docker"", ""kubernetes"", ""marketing""]",28,0
+user_0006,26,master,Chennai,3,devops engineer,company_30,Finance,2021-01-04,2023-08-22,193558,258078,"[""git"", ""linux"", ""aws"", ""prompting"", ""kubernetes"", ""docker""]",32,0
+user_0007,30,bachelor,Bangalore,0,associate,company_77,Manufacturing,2018-10-10,2021-04-27,96106,128142,"[""excel"", ""communication""]",31,1
+user_0007,30,bachelor,Bangalore,1,associate,company_69,Retail,2019-09-30,2023-05-12,95741,127654,"[""communication"", ""python"", ""excel"", ""testing""]",44,0
+user_0007,30,bachelor,Bangalore,2,analyst,company_38,EdTech,2020-08-13,2024-07-23,106568,142090,"[""excel"", ""sql"", ""react"", ""data visualization"", ""tableau""]",48,0
+user_0007,30,bachelor,Bangalore,3,senior analyst,company_27,Manufacturing,2021-10-29,2024-04-16,117765,157021,"[""excel"", ""data visualization""]",30,1
+user_0008,34,bachelor,Pune,0,junior engineer,company_26,Finance,2018-09-21,2020-09-10,41800,55734,"[""git"", ""testing"", ""python""]",24,0
+user_0008,34,bachelor,Pune,1,engineer,company_19,Retail,2019-11-10,2023-07-22,48773,65031,"[""git"", ""testing"", ""docker"", ""nlp""]",45,0
+user_0008,34,bachelor,Pune,2,lead engineer,company_59,Finance,2020-12-18,2023-09-04,77926,103902,"[""design"", ""project management""]",33,1
+user_0008,34,bachelor,Pune,3,associate,company_58,Healthcare,2021-11-25,2024-01-14,94725,126301,"[""communication"", ""excel"", ""c++"", ""powerbi"", ""seo""]",26,0
+user_0008,34,bachelor,Pune,4,product manager,company_11,Finance,2022-12-17,2026-03-01,135845,181126,"[""marketing"", ""excel"", ""design"", ""project management""]",39,0
+user_0009,42,bachelor,Chennai,0,analyst,company_50,Manufacturing,2017-05-26,2020-09-07,108569,144759,"[""linux"", ""excel"", ""aws"", ""sql"", ""python"", ""kubernetes"", ""data visualization"", ""tableau""]",40,0
+user_0009,42,bachelor,Chennai,1,senior analyst,company_73,Retail,2018-05-18,2021-02-01,122360,163147,"[""project management"", ""excel"", ""sql"", ""react"", ""sales"", ""powerbi"", ""data visualization""]",33,0
+user_0010,33,bachelor,Hyderabad,0,intern,company_70,IT,2016-08-03,2018-09-22,23820,31760,"[""excel"", ""communication"", ""python"", ""c++""]",26,1
+user_0010,33,bachelor,Hyderabad,1,junior engineer,company_31,Finance,2017-06-24,2021-05-04,34793,46390,"[""testing"", ""python""]",47,1
+user_0010,33,bachelor,Hyderabad,2,engineer,company_14,EdTech,2018-07-13,2021-05-28,51478,68637,"[""git"", ""linux""]",35,0
+user_0011,32,master,Chennai,0,data scientist,company_2,Manufacturing,2019-03-01,2022-12-10,166480,221973,"[""testing"", ""excel"", ""sql"", ""probability"", ""python"", ""statistics"", ""machine learning"", ""docker"", ""data visualization""]",46,1
+user_0011,32,master,Chennai,1,senior data scientist,company_12,Healthcare,2019-12-31,2023-10-11,183178,244238,"[""deep learning"", ""prompting"", ""python"", ""nlp"", ""statistics"", ""docker"", ""seo""]",46,1
+user_0012,34,bachelor,Delhi,0,associate,company_67,Finance,2015-05-02,2017-06-20,90881,121174,"[""excel"", ""python"", ""communication"", ""design""]",26,0
+user_0012,34,bachelor,Delhi,1,analyst,company_32,Healthcare,2016-04-20,2019-05-05,109886,146515,"[""excel"", ""sql"", ""react"", ""nlp"", ""data visualization"", ""tableau""]",37,1
+user_0012,34,bachelor,Delhi,2,senior analyst,company_41,IT,2017-05-05,2019-08-23,121473,161965,"[""communication"", ""deep learning"", ""excel"", ""sql"", ""powerbi"", ""data visualization""]",28,0
+user_0012,34,bachelor,Delhi,3,product manager,company_39,IT,2018-06-01,2021-05-16,132777,177036,"[""communication"", ""marketing"", ""excel"", ""project management"", ""kubernetes"", ""machine learning""]",36,0
+user_0012,34,bachelor,Delhi,4,senior product manager,company_24,IT,2019-03-05,2022-07-17,146507,195343,"[""communication"", ""java"", ""project management"", ""c++"", ""python"", ""design"", ""docker""]",41,1
+user_0013,23,master,Hyderabad,0,intern,company_67,Manufacturing,2018-06-15,2019-03-12,30136,40182,"[""communication"", ""python"", ""excel"", ""linux""]",9,1
+user_0013,23,master,Hyderabad,1,senior engineer,company_34,Retail,2019-07-15,2023-01-25,74722,99630,"[""design"", ""kubernetes""]",43,0
+user_0013,23,master,Hyderabad,2,lead engineer,company_10,Retail,2020-04-17,2023-08-30,83006,110674,"[""communication"", ""java"", ""project management"", ""aws"", ""python"", ""design"", ""seo"", ""tableau""]",41,0
+user_0013,23,master,Hyderabad,3,analyst,company_40,EdTech,2021-05-19,2022-06-13,116929,155906,"[""excel"", ""git"", ""data visualization"", ""tableau""]",13,1
+user_0013,23,master,Hyderabad,4,senior analyst,company_42,EdTech,2022-05-24,2024-06-12,128334,171112,"[""excel"", ""sql""]",25,1
+user_0014,27,phd,Remote,0,associate,company_61,Healthcare,2018-03-31,2019-08-23,109537,146049,"[""excel"", ""communication""]",17,1
+user_0014,27,phd,Remote,1,analyst,company_52,EdTech,2019-06-19,2020-06-13,118470,157960,"[""communication"", ""excel"", ""sql"", ""cloud"", ""docker"", ""data visualization"", ""tableau""]",12,0
+user_0015,34,bachelor,Chennai,0,engineer,company_16,IT,2019-06-01,2023-03-12,54217,72290,"[""c++"", ""testing"", ""linux"", ""docker""]",46,0
+user_0015,34,bachelor,Chennai,1,engineer,company_20,Manufacturing,2020-06-07,2020-12-04,55843,74457,"[""testing"", ""python""]",6,1
+user_0015,34,bachelor,Chennai,2,senior engineer,company_65,Healthcare,2021-05-02,2023-12-18,68314,91086,"[""git"", ""testing"", ""python"", ""sales"", ""kubernetes"", ""design"", ""docker""]",32,0
+user_0015,34,bachelor,Chennai,3,lead engineer,company_25,Retail,2022-05-06,2025-11-16,83250,111001,"[""communication"", ""java"", ""project management"", ""python"", ""sales"", ""design"", ""docker"", ""seo""]",43,0
+user_0016,27,master,Hyderabad,0,associate,company_13,Manufacturing,2019-05-05,2021-10-21,101092,134790,"[""communication"", ""testing"", ""project management"", ""excel"", ""docker""]",30,0
+user_0016,27,master,Hyderabad,1,analyst,company_69,Manufacturing,2020-05-02,2020-10-29,111024,148033,"[""data visualization"", ""excel"", ""sql"", ""docker"", ""seo"", ""tableau""]",6,1
+user_0017,47,bachelor,Pune,0,junior engineer,company_39,IT,2018-10-11,2020-09-30,37554,50072,"[""git"", ""python""]",24,0
+user_0017,47,bachelor,Pune,1,engineer,company_80,Retail,2019-07-23,2021-07-12,52985,70647,"[""git"", ""testing"", ""linux"", ""react"", ""python"", ""statistics"", ""docker"", ""seo""]",24,0
+user_0018,38,bachelor,Hyderabad,0,analyst,company_76,Healthcare,2016-08-30,2017-02-26,108559,144746,"[""sql"", ""tableau""]",6,1
+user_0018,38,bachelor,Hyderabad,1,analyst,company_51,Healthcare,2017-09-22,2019-10-12,104636,139515,"[""excel"", ""sql"", ""prompting"", ""python"", ""data visualization"", ""tableau""]",25,0
+user_0018,38,bachelor,Hyderabad,2,senior analyst,company_33,Retail,2018-09-01,2019-05-29,124141,165522,"[""powerbi"", ""sql"", ""data visualization"", ""statistics""]",9,0
+user_0018,38,bachelor,Hyderabad,3,product manager,company_54,Finance,2019-08-27,2020-04-23,133254,177673,"[""communication"", ""powerbi"", ""design"", ""project management""]",8,0
+user_0019,37,master,Mumbai,0,junior engineer,company_51,EdTech,2016-10-04,2019-09-19,45751,61002,"[""git"", ""testing"", ""seo"", ""python"", ""powerbi"", ""data visualization""]",36,1
+user_0019,37,master,Mumbai,1,engineer,company_30,Manufacturing,2017-07-30,2018-01-26,58798,78398,"[""communication"", ""git"", ""testing"", ""linux"", ""docker"", ""data visualization""]",6,0
+user_0019,37,master,Mumbai,2,senior engineer,company_64,IT,2018-07-21,2022-04-01,71663,95551,"[""testing"", ""aws"", ""sql"", ""python"", ""kubernetes"", ""docker""]",45,0
+user_0019,37,master,Mumbai,3,lead engineer,company_79,Manufacturing,2019-08-17,2020-10-10,87630,116840,"[""communication"", ""project management"", ""probability"", ""prompting"", ""python"", ""c++"", ""design""]",14,1
+user_0020,31,bachelor,Hyderabad,0,associate,company_59,IT,2015-10-18,2018-03-06,96228,128304,"[""communication"", ""prompting"", ""excel"", ""seo""]",29,0
+user_0020,31,bachelor,Hyderabad,1,analyst,company_28,Finance,2016-07-24,2017-04-20,106617,142156,"[""sql"", ""data visualization""]",9,1
+user_0020,31,bachelor,Hyderabad,2,senior analyst,company_2,Healthcare,2017-07-22,2019-06-12,117333,156444,"[""powerbi"", ""sql""]",23,0
+user_0021,20,bachelor,Bangalore,0,analyst,company_29,EdTech,2017-12-27,2018-10-23,108721,144962,"[""data visualization"", ""tableau""]",10,0
+user_0021,20,bachelor,Bangalore,1,senior analyst,company_10,IT,2019-02-17,2021-03-08,121953,162604,"[""java"", ""excel"", ""sql"", ""sales"", ""powerbi"", ""data visualization"", ""tableau""]",25,1
+user_0021,20,bachelor,Bangalore,2,analyst,company_71,Retail,2019-12-29,2021-11-18,110331,147108,"[""communication"", ""git"", ""seo"", ""excel"", ""sql"", ""data visualization"", ""tableau""]",23,0
+user_0022,48,bachelor,Mumbai,0,analyst,company_11,IT,2017-08-02,2018-07-28,106308,141744,"[""excel"", ""prompting"", ""data visualization"", ""tableau""]",12,1
+user_0022,48,bachelor,Mumbai,1,senior analyst,company_55,Retail,2018-08-03,2020-12-20,117117,156157,"[""excel"", ""powerbi""]",29,0
+user_0022,48,bachelor,Mumbai,2,data scientist,company_15,Healthcare,2019-06-15,2020-06-09,164221,218961,"[""machine learning"", ""kubernetes"", ""python"", ""statistics""]",12,0
+user_0022,48,bachelor,Mumbai,3,devops engineer,company_73,Retail,2020-07-16,2024-06-25,186642,248857,"[""git"", ""linux"", ""aws"", ""teamwork"", ""docker"", ""seo""]",48,1
+user_0022,48,bachelor,Mumbai,4,engineering manager,company_73,EdTech,2021-08-02,2025-05-13,196651,262202,"[""testing"", ""linux"", ""deep learning"", ""excel"", ""react"", ""powerbi"", ""docker""]",46,0
+user_0023,25,master,Bangalore,0,associate,company_76,Manufacturing,2017-09-18,2020-06-04,102561,136748,"[""communication"", ""nodejs"", ""excel"", ""aws"", ""data visualization""]",33,1
+user_0023,25,master,Bangalore,1,analyst,company_56,Finance,2018-08-15,2022-03-27,109707,146276,"[""excel"", ""sql"", ""c++"", ""powerbi"", ""data visualization"", ""tableau""]",44,0
+user_0024,42,bachelor,Pune,0,intern,company_54,Healthcare,2017-07-12,2018-03-09,27132,36176,"[""communication"", ""excel"", ""probability"", ""python"", ""tableau""]",8,0
+user_0024,42,bachelor,Pune,1,junior engineer,company_11,Manufacturing,2018-05-04,2019-08-27,40984,54645,"[""git"", ""testing"", ""project management"", ""react"", ""python""]",16,1
+user_0024,42,bachelor,Pune,2,intern,company_33,Finance,2019-05-05,2020-08-27,21825,29101,"[""excel"", ""communication"", ""python"", ""teamwork""]",16,0
+user_0024,42,bachelor,Pune,3,junior engineer,company_57,Retail,2020-04-01,2021-08-24,41485,55314,"[""git"", ""java"", ""testing"", ""excel"", ""c++"", ""python"", ""teamwork""]",17,1
+user_0025,21,bachelor,Bangalore,0,analyst,company_75,EdTech,2017-07-18,2018-04-14,107136,142849,"[""sql"", ""tableau""]",9,0
+user_0025,21,bachelor,Bangalore,1,senior analyst,company_44,Retail,2018-10-25,2022-04-07,117975,157300,"[""powerbi"", ""sql""]",42,0
+user_0025,21,bachelor,Bangalore,2,product manager,company_77,IT,2019-08-05,2020-04-01,132353,176470,"[""linux"", ""project management"", ""excel"", ""marketing"", ""design"", ""docker""]",8,1
+user_0025,21,bachelor,Bangalore,3,senior product manager,company_51,Finance,2020-07-25,2023-12-07,147899,197199,"[""communication"", ""project management"", ""aws"", ""probability"", ""sales"", ""python"", ""kubernetes"", ""design""]",41,0
+user_0026,32,bachelor,Mumbai,0,engineer,company_18,Finance,2015-10-01,2019-09-10,53943,71924,"[""python"", ""testing"", ""linux"", ""nlp""]",48,0
+user_0026,32,bachelor,Mumbai,1,senior engineer,company_80,Finance,2016-10-18,2017-10-13,68685,91580,"[""testing"", ""prompting"", ""python"", ""kubernetes"", ""teamwork"", ""machine learning"", ""design"", ""docker"", ""tableau""]",12,1
+user_0026,32,bachelor,Mumbai,2,lead engineer,company_25,Healthcare,2017-08-25,2019-05-17,81249,108332,"[""communication"", ""git"", ""project management"", ""marketing"", ""c++"", ""python"", ""design""]",21,1
+user_0027,29,master,Pune,0,junior engineer,company_21,Healthcare,2019-08-25,2023-04-06,43440,57920,"[""git"", ""testing"", ""excel"", ""aws"", ""python""]",44,1
+user_0027,29,master,Pune,1,senior engineer,company_31,Manufacturing,2020-11-13,2023-07-31,69751,93002,"[""testing"", ""python"", ""kubernetes"", ""design"", ""docker""]",33,0
+user_0027,29,master,Pune,2,lead engineer,company_61,Retail,2021-08-02,2023-09-21,83360,111147,"[""sales"", ""python"", ""design"", ""project management""]",26,0
+user_0027,29,master,Pune,3,lead engineer,company_39,IT,2022-09-25,2026-06-06,81977,109303,"[""design"", ""python"", ""nlp"", ""project management""]",45,0
+user_0027,29,master,Pune,4,associate,company_1,EdTech,2023-10-19,2027-06-30,102140,136186,"[""communication"", ""nodejs"", ""excel"", ""aws"", ""teamwork"", ""tableau""]",45,1
+user_0028,33,bachelor,Delhi,0,engineer,company_45,Finance,2017-01-16,2020-03-31,55722,74296,"[""git"", ""testing"", ""linux"", ""excel"", ""python"", ""kubernetes"", ""docker""]",39,0
+user_0028,33,bachelor,Delhi,1,senior engineer,company_18,IT,2018-04-14,2020-07-02,63166,84222,"[""machine learning"", ""testing"", ""docker"", ""kubernetes""]",27,1
+user_0029,26,highschool,Chennai,0,associate,company_7,Retail,2016-12-01,2019-06-19,89007,118676,"[""excel"", ""communication"", ""seo""]",31,1
+user_0029,26,highschool,Chennai,1,analyst,company_67,Healthcare,2018-01-07,2020-05-26,100943,134590,"[""kubernetes"", ""sql"", ""data visualization"", ""tableau""]",29,0
+user_0030,33,bachelor,Remote,0,engineer,company_46,EdTech,2016-10-04,2017-09-29,48879,65173,"[""git"", ""testing"", ""linux"", ""python"", ""sales"", ""powerbi"", ""docker"", ""seo""]",12,1
+user_0030,33,bachelor,Remote,1,senior engineer,company_57,IT,2017-12-03,2018-08-30,62306,83074,"[""design"", ""testing"", ""python"", ""data visualization""]",9,0
+user_0030,33,bachelor,Remote,2,lead engineer,company_10,EdTech,2018-12-01,2022-10-11,80100,106801,"[""communication"", ""java"", ""python"", ""project management""]",47,0
+user_0031,32,bachelor,Mumbai,0,intern,company_63,Finance,2015-05-28,2016-10-19,28058,37411,"[""communication"", ""excel"", ""aws"", ""python"", ""statistics""]",17,0
+user_0031,32,bachelor,Mumbai,1,junior engineer,company_39,Finance,2016-03-03,2018-12-18,36745,48993,"[""git"", ""testing"", ""aws"", ""python"", ""design""]",34,0
+user_0031,32,bachelor,Mumbai,2,engineer,company_12,IT,2017-03-22,2018-04-16,50662,67550,"[""git"", ""linux"", ""marketing"", ""python"", ""statistics"", ""docker""]",13,1
+user_0032,42,master,Pune,0,analyst,company_8,IT,2019-10-26,2020-08-21,110747,147663,"[""testing"", ""nodejs"", ""seo"", ""excel"", ""sql"", ""sales"", ""data visualization"", ""tableau""]",10,0
+user_0032,42,master,Pune,1,senior analyst,company_71,Healthcare,2020-09-02,2022-10-22,125724,167632,"[""sql"", ""data visualization""]",26,0
+user_0032,42,master,Pune,2,product manager,company_74,Healthcare,2021-10-20,2022-09-15,143310,191080,"[""communication"", ""linux"", ""project management"", ""excel"", ""marketing"", ""sql"", ""probability"", ""design""]",11,0
+user_0032,42,master,Pune,3,product manager,company_10,Retail,2022-10-31,2026-08-11,136346,181795,"[""java"", ""marketing"", ""excel"", ""project management"", ""aws"", ""design""]",46,0
+user_0032,42,master,Pune,4,senior product manager,company_14,Healthcare,2023-10-05,2026-09-19,156248,208330,"[""communication"", ""testing"", ""project management"", ""python"", ""design""]",36,0
+user_0033,28,bachelor,Chennai,0,intern,company_64,EdTech,2016-10-05,2020-06-16,26865,35820,"[""communication"", ""linux"", ""excel"", ""python"", ""machine learning""]",45,1
+user_0033,28,bachelor,Chennai,1,junior engineer,company_37,Manufacturing,2017-09-25,2020-10-09,34541,46054,"[""git"", ""testing"", ""python"", ""sql""]",37,1
+user_0034,20,master,Hyderabad,0,associate,company_58,EdTech,2019-03-16,2021-10-01,100795,134394,"[""excel"", ""communication"", ""react"", ""testing""]",31,1
+user_0034,20,master,Hyderabad,1,senior analyst,company_6,IT,2020-02-14,2021-02-08,128207,170943,"[""excel"", ""testing"", ""powerbi"", ""data visualization""]",12,0
+user_0034,20,master,Hyderabad,2,product manager,company_79,Retail,2021-03-11,2024-02-24,143557,191409,"[""communication"", ""react"", ""design"", ""marketing""]",36,1
+user_0035,36,master,Pune,0,data scientist,company_75,Manufacturing,2016-11-04,2017-06-02,168331,224442,"[""sql"", ""python"", ""statistics"", ""powerbi"", ""data visualization""]",7,0
+user_0035,36,master,Pune,1,senior data scientist,company_53,EdTech,2017-12-06,2021-08-17,182006,242674,"[""nodejs"", ""deep learning"", ""tableau"", ""python"", ""nlp"", ""statistics"", ""teamwork""]",45,1
+user_0035,36,master,Pune,2,engineering manager,company_34,EdTech,2018-12-04,2020-01-28,211048,281397,"[""linux"", ""deep learning"", ""c++"", ""kubernetes"", ""design"", ""docker"", ""data visualization""]",14,1
+user_0035,36,master,Pune,3,cto,company_70,Manufacturing,2019-10-06,2021-08-26,225128,300171,"[""communication"", ""project management"", ""aws"", ""python"", ""design""]",23,1
+user_0035,36,master,Pune,4,cto,company_35,Finance,2020-10-11,2021-06-08,221140,294854,"[""communication"", ""sales"", ""python"", ""design""]",8,0
+user_0036,27,bachelor,Delhi,0,junior engineer,company_61,Manufacturing,2015-04-30,2017-12-15,39069,52093,"[""git"", ""probability"", ""testing"", ""python""]",32,0
+user_0036,27,bachelor,Delhi,1,junior engineer,company_23,IT,2016-05-28,2018-05-18,35072,46762,"[""git"", ""testing"", ""python"", ""nodejs""]",24,1
+user_0036,27,bachelor,Delhi,2,intern,company_65,Manufacturing,2017-08-14,2019-08-04,21251,28335,"[""communication"", ""marketing"", ""excel"", ""python"", ""teamwork""]",24,1
+user_0037,23,bachelor,Delhi,0,associate,company_55,EdTech,2019-02-03,2019-08-02,93170,124227,"[""communication"", ""prompting"", ""excel""]",6,1
+user_0037,23,bachelor,Delhi,1,analyst,company_31,Manufacturing,2020-04-05,2021-03-31,104424,139232,"[""sql"", ""data visualization""]",12,1
+user_0037,23,bachelor,Delhi,2,senior product manager,company_40,Finance,2021-03-25,2024-09-05,142368,189824,"[""communication"", ""project management""]",42,1
+user_0037,23,bachelor,Delhi,3,data scientist,company_59,Retail,2022-04-18,2024-05-07,157430,209907,"[""statistics"", ""sql"", ""data visualization"", ""teamwork""]",25,1
+user_0037,23,bachelor,Delhi,4,senior data scientist,company_68,Retail,2023-03-21,2026-03-05,177125,236167,"[""java"", ""python"", ""deep learning"", ""nlp""]",36,1
+user_0038,38,bachelor,Remote,0,engineer,company_66,Manufacturing,2018-01-23,2019-05-18,52537,70050,"[""testing"", ""python"", ""docker"", ""marketing""]",16,0
+user_0038,38,bachelor,Remote,1,senior engineer,company_75,IT,2019-03-10,2021-10-25,67935,90580,"[""powerbi"", ""deep learning"", ""python"", ""kubernetes"", ""design"", ""docker""]",32,0
+user_0038,38,bachelor,Remote,2,lead engineer,company_24,Finance,2020-04-02,2021-01-27,82679,110239,"[""communication"", ""project management""]",10,1
+user_0039,48,bachelor,Remote,0,analyst,company_29,IT,2015-09-09,2019-08-19,109651,146202,"[""excel"", ""powerbi"", ""data visualization"", ""tableau""]",48,0
+user_0039,48,bachelor,Remote,1,senior product manager,company_54,EdTech,2016-09-07,2019-12-21,148453,197937,"[""communication"", ""git"", ""project management"", ""sql"", ""python"", ""design""]",40,0
+user_0039,48,bachelor,Remote,2,data scientist,company_52,Manufacturing,2017-06-21,2018-06-16,164457,219277,"[""python"", ""sql""]",12,0
+user_0039,48,bachelor,Remote,3,senior data scientist,company_39,Healthcare,2018-09-17,2019-06-14,171265,228354,"[""testing"", ""nodejs"", ""deep learning"", ""python"", ""nlp"", ""statistics"", ""data visualization""]",9,0
+user_0039,48,bachelor,Remote,4,devops engineer,company_24,EdTech,2019-08-27,2021-01-18,188999,251998,"[""git"", ""linux"", ""aws"", ""react"", ""kubernetes"", ""teamwork"", ""docker""]",17,1
+user_0040,27,bachelor,Delhi,0,analyst,company_12,EdTech,2015-07-09,2018-02-23,107841,143788,"[""data visualization"", ""excel"", ""sql"", ""kubernetes"", ""seo"", ""tableau""]",32,0
+user_0040,27,bachelor,Delhi,1,senior analyst,company_25,Retail,2016-06-15,2020-01-26,124090,165453,"[""deep learning"", ""excel"", ""aws"", ""sql"", ""sales"", ""python"", ""powerbi"", ""data visualization""]",44,0
+user_0040,27,bachelor,Delhi,2,senior analyst,company_34,Healthcare,2017-08-23,2019-05-15,124111,165482,"[""powerbi"", ""excel"", ""aws"", ""sql"", ""probability"", ""kubernetes"", ""design"", ""data visualization""]",21,1
+user_0041,45,phd,Hyderabad,0,junior engineer,company_38,Finance,2017-03-10,2019-10-26,49274,65698,"[""git"", ""testing""]",32,0
+user_0041,45,phd,Hyderabad,1,engineer,company_46,Finance,2018-03-18,2021-08-29,65723,87631,"[""git"", ""testing"", ""python"", ""powerbi"", ""docker""]",42,0
+user_0041,45,phd,Hyderabad,2,engineer,company_18,Retail,2019-02-21,2022-06-05,62965,83954,"[""testing"", ""python""]",40,0
+user_0041,45,phd,Hyderabad,3,senior engineer,company_69,Healthcare,2020-02-17,2020-08-15,78824,105099,"[""powerbi"", ""testing"", ""cloud"", ""python"", ""kubernetes"", ""design"", ""docker""]",6,0
+user_0042,42,bachelor,Remote,0,intern,company_59,EdTech,2015-09-22,2016-12-15,24253,32337,"[""communication"", ""excel"", ""react"", ""python"", ""kubernetes""]",15,0
+user_0042,42,bachelor,Remote,1,engineer,company_64,Manufacturing,2016-08-23,2017-07-19,48167,64222,"[""git"", ""python""]",11,1
+user_0042,42,bachelor,Remote,2,senior engineer,company_5,Finance,2017-11-02,2018-10-28,68987,91983,"[""testing"", ""marketing"", ""project management"", ""python"", ""kubernetes"", ""design"", ""docker"", ""data visualization""]",12,1
+user_0043,26,bachelor,Remote,0,intern,company_65,Retail,2016-09-24,2020-03-07,24245,32326,"[""communication"", ""git"", ""excel"", ""python"", ""powerbi"", ""tableau""]",42,1
+user_0043,26,bachelor,Remote,1,junior engineer,company_49,Manufacturing,2017-10-29,2019-06-21,35320,47094,"[""git"", ""testing"", ""python"", ""kubernetes"", ""design""]",20,0
+user_0043,26,bachelor,Remote,2,engineer,company_41,Healthcare,2018-10-22,2019-09-17,52055,69406,"[""git"", ""testing"", ""linux"", ""react""]",11,0
+user_0043,26,bachelor,Remote,3,senior engineer,company_58,EdTech,2020-01-02,2022-01-21,67757,90343,"[""design"", ""docker""]",25,1
+user_0043,26,bachelor,Remote,4,lead engineer,company_72,Finance,2020-09-14,2023-01-02,82872,110496,"[""communication"", ""powerbi"", ""linux"", ""project management"", ""excel"", ""python"", ""design""]",28,0
+user_0044,24,bachelor,Mumbai,0,junior engineer,company_59,IT,2015-05-31,2018-02-14,38268,51025,"[""git"", ""testing"", ""deep learning"", ""python"", ""statistics""]",33,0
+user_0044,24,bachelor,Mumbai,1,engineer,company_63,EdTech,2016-06-28,2018-09-16,53301,71068,"[""git"", ""testing"", ""linux"", ""aws"", ""react"", ""python"", ""machine learning"", ""docker""]",27,0
+user_0044,24,bachelor,Mumbai,2,senior engineer,company_27,Manufacturing,2017-06-13,2019-12-30,66582,88776,"[""java"", ""testing"", ""python"", ""kubernetes""]",31,1
+user_0044,24,bachelor,Mumbai,3,associate,company_58,EdTech,2018-08-21,2021-04-07,95562,127416,"[""excel"", ""communication""]",32,1
+user_0044,24,bachelor,Mumbai,4,analyst,company_73,Retail,2019-07-16,2022-08-29,107867,143823,"[""excel"", ""sql"", ""probability"", ""statistics"", ""machine learning"", ""data visualization"", ""tableau""]",38,1
+user_0045,50,master,Bangalore,0,intern,company_62,IT,2016-07-11,2019-08-25,35549,47398,"[""excel"", ""communication"", ""python"", ""kubernetes""]",38,1
+user_0045,50,master,Bangalore,1,junior engineer,company_13,Manufacturing,2017-06-23,2018-07-18,43488,57985,"[""git"", ""testing"", ""python"", ""c++""]",13,1
+user_0046,29,highschool,Delhi,0,intern,company_72,Manufacturing,2019-11-18,2023-09-28,15111,20149,"[""communication"", ""excel"", ""python"", ""docker""]",47,1
+user_0046,29,highschool,Delhi,1,junior engineer,company_58,EdTech,2020-11-25,2024-09-05,29719,39626,"[""testing"", ""python""]",46,1
+user_0047,42,bachelor,Mumbai,0,engineer,company_76,IT,2015-11-07,2019-02-19,50456,67275,"[""git"", ""testing"", ""linux"", ""react"", ""statistics"", ""docker""]",40,1
+user_0047,42,bachelor,Mumbai,1,senior engineer,company_48,Retail,2016-09-23,2020-06-04,63743,84991,"[""communication"", ""testing"", ""aws"", ""python"", ""kubernetes"", ""nlp"", ""machine learning"", ""design"", ""docker""]",45,0
+user_0048,33,bachelor,Pune,0,analyst,company_41,Manufacturing,2016-03-18,2019-12-28,109623,146164,"[""excel"", ""machine learning"", ""sql"", ""tableau""]",46,0
+user_0048,33,bachelor,Pune,1,product manager,company_4,Finance,2017-03-18,2018-05-12,131576,175435,"[""communication"", ""project management"", ""excel"", ""marketing"", ""machine learning"", ""design""]",14,1
+user_0048,33,bachelor,Pune,2,senior product manager,company_47,EdTech,2018-02-12,2021-05-27,146456,195274,"[""communication"", ""linux"", ""project management"", ""prompting"", ""python"", ""design""]",40,0
+user_0048,33,bachelor,Pune,3,senior product manager,company_45,IT,2019-03-25,2020-10-15,148468,197958,"[""communication"", ""design"", ""cloud"", ""project management""]",19,1
+user_0048,33,bachelor,Pune,4,senior data scientist,company_73,Healthcare,2020-04-23,2022-01-13,172294,229725,"[""git"", ""deep learning"", ""sql"", ""prompting"", ""python"", ""nlp"", ""statistics""]",21,1
+user_0049,25,bachelor,Delhi,0,associate,company_17,Finance,2018-04-21,2021-06-04,89604,119472,"[""excel"", ""communication""]",38,0
+user_0049,25,bachelor,Delhi,1,lead engineer,company_48,Manufacturing,2019-06-23,2022-01-08,81917,109222,"[""communication"", ""powerbi"", ""testing"", ""project management"", ""cloud"", ""python"", ""design""]",31,1
+user_0049,25,bachelor,Delhi,2,associate,company_55,Finance,2020-03-17,2021-02-10,94959,126613,"[""excel"", ""communication""]",11,1
+user_0049,25,bachelor,Delhi,3,analyst,company_21,Manufacturing,2021-07-01,2023-06-21,106679,142239,"[""communication"", ""excel"", ""sql"", ""python"", ""data visualization"", ""tableau""]",24,1
+user_0050,50,bachelor,Delhi,0,associate,company_40,Retail,2016-03-12,2018-01-31,89576,119434,"[""communication"", ""probability"", ""excel""]",23,0
+user_0050,50,bachelor,Delhi,1,analyst,company_44,IT,2016-12-02,2017-11-27,101715,135620,"[""excel"", ""data visualization"", ""tableau""]",12,1
+user_0050,50,bachelor,Delhi,2,analyst,company_19,IT,2017-11-30,2019-07-23,107348,143131,"[""excel"", ""sql"", ""probability"", ""data visualization"", ""tableau""]",20,0
+user_0051,34,bachelor,Chennai,0,analyst,company_55,Healthcare,2018-09-10,2021-06-26,104903,139870,"[""sql"", ""tableau""]",34,0
+user_0051,34,bachelor,Chennai,1,senior analyst,company_67,EdTech,2019-09-05,2020-07-31,118858,158478,"[""sql"", ""data visualization""]",11,0
+user_0051,34,bachelor,Chennai,2,senior analyst,company_73,Manufacturing,2020-09-04,2021-06-01,118728,158305,"[""excel"", ""sql"", ""react"", ""sales"", ""teamwork"", ""powerbi"", ""docker"", ""data visualization""]",9,1
+user_0052,25,master,Remote,0,intern,company_69,EdTech,2018-04-25,2018-10-22,31765,42354,"[""communication"", ""excel"", ""probability"", ""react"", ""python"", ""tableau""]",6,0
+user_0052,25,master,Remote,1,junior engineer,company_31,IT,2019-05-26,2020-04-20,48939,65252,"[""git"", ""testing"", ""nodejs"", ""python"", ""tableau""]",11,0
+user_0053,33,bachelor,Pune,0,associate,company_35,Retail,2018-12-29,2022-12-08,90789,121052,"[""communication"", ""excel"", ""kubernetes"", ""teamwork"", ""machine learning""]",48,0
+user_0053,33,bachelor,Pune,1,lead engineer,company_66,Healthcare,2019-11-07,2022-07-24,78710,104947,"[""python"", ""project management""]",33,0
+user_0054,38,bachelor,Chennai,0,intern,company_61,Healthcare,2018-06-15,2019-07-10,24067,32090,"[""communication"", ""python""]",13,1
+user_0054,38,bachelor,Chennai,1,engineer,company_74,Healthcare,2019-07-18,2020-03-14,55852,74469,"[""git"", ""testing"", ""linux"", ""excel"", ""cloud"", ""prompting"", ""python"", ""docker""]",8,0
+user_0054,38,bachelor,Chennai,2,senior engineer,company_40,Healthcare,2020-07-13,2021-04-09,63844,85125,"[""testing"", ""docker""]",9,0
+user_0054,38,bachelor,Chennai,3,lead engineer,company_26,Retail,2021-03-21,2023-08-08,77658,103544,"[""communication"", ""linux"", ""python"", ""project management""]",29,0
+user_0055,49,bachelor,Chennai,0,intern,company_12,IT,2016-11-17,2020-10-27,26247,34996,"[""communication"", ""excel"", ""sql"", ""cloud"", ""python"", ""teamwork"", ""tableau""]",48,0
+user_0055,49,bachelor,Chennai,1,senior engineer,company_8,Manufacturing,2018-02-14,2020-07-03,67959,90613,"[""testing"", ""python"", ""docker"", ""project management""]",29,0
+user_0055,49,bachelor,Chennai,2,lead engineer,company_14,Finance,2018-12-20,2021-02-07,80494,107325,"[""communication"", ""linux"", ""project management"", ""python"", ""design""]",26,0
+user_0055,49,bachelor,Chennai,3,associate,company_12,Finance,2020-01-15,2022-03-05,94194,125592,"[""excel"", ""seo"", ""communication"", ""cloud""]",26,1
+user_0056,26,master,Mumbai,0,intern,company_71,Finance,2019-01-27,2021-05-16,33742,44990,"[""communication"", ""design"", ""python"", ""excel""]",28,0
+user_0056,26,master,Mumbai,1,junior engineer,company_11,EdTech,2020-04-07,2021-06-01,43190,57586,"[""git"", ""testing"", ""python"", ""data visualization""]",14,1
+user_0056,26,master,Mumbai,2,senior engineer,company_6,Manufacturing,2020-12-28,2021-10-24,71315,95086,"[""testing"", ""python""]",10,0
+user_0057,38,bachelor,Delhi,0,analyst,company_64,Manufacturing,2015-04-19,2018-01-03,104247,138997,"[""excel"", ""aws"", ""sql"", ""probability"", ""data visualization"", ""tableau""]",33,1
+user_0057,38,bachelor,Delhi,1,senior analyst,company_70,Manufacturing,2016-04-05,2018-09-22,117223,156297,"[""git"", ""excel"", ""sql"", ""c++"", ""kubernetes"", ""powerbi"", ""data visualization"", ""tableau""]",30,1
+user_0057,38,bachelor,Delhi,2,data scientist,company_30,Finance,2017-04-19,2019-03-10,158351,211135,"[""linux"", ""project management"", ""sql"", ""python"", ""statistics"", ""machine learning""]",23,0
+user_0057,38,bachelor,Delhi,3,senior data scientist,company_23,Finance,2018-03-31,2020-02-19,177068,236091,"[""sales"", ""python"", ""statistics"", ""nlp""]",23,0
+user_0057,38,bachelor,Delhi,4,devops engineer,company_78,Finance,2019-06-12,2021-09-29,191422,255230,"[""git"", ""linux"", ""excel"", ""aws"", ""sql"", ""c++"", ""kubernetes"", ""nlp"", ""docker""]",28,0
+user_0058,20,bachelor,Pune,0,junior engineer,company_51,EdTech,2017-02-27,2018-07-22,38970,51961,"[""git"", ""testing"", ""python"", ""kubernetes""]",17,0
+user_0058,20,bachelor,Pune,1,engineer,company_38,Finance,2018-01-08,2019-03-04,50022,66696,"[""git"", ""testing"", ""linux"", ""aws"", ""react"", ""python""]",14,0
+user_0058,20,bachelor,Pune,2,senior engineer,company_41,Finance,2019-02-09,2021-08-27,69567,92756,"[""powerbi"", ""testing"", ""excel"", ""python"", ""kubernetes"", ""nlp"", ""design"", ""docker""]",31,0
+user_0059,34,highschool,Chennai,0,intern,company_70,Manufacturing,2017-01-19,2018-01-14,13518,18024,"[""excel"", ""communication"", ""python"", ""kubernetes""]",12,0
+user_0059,34,highschool,Chennai,1,engineer,company_49,Finance,2018-01-07,2020-10-23,41586,55448,"[""git"", ""testing"", ""linux"", ""marketing"", ""python"", ""machine learning""]",34,0
+user_0059,34,highschool,Chennai,2,senior engineer,company_71,Retail,2019-04-11,2020-03-06,58982,78643,"[""testing"", ""nodejs"", ""deep learning"", ""python"", ""kubernetes"", ""design"", ""docker""]",11,1
+user_0060,27,highschool,Hyderabad,0,intern,company_38,IT,2015-06-07,2015-12-04,19804,26406,"[""communication"", ""deep learning"", ""excel"", ""probability"", ""python"", ""machine learning""]",6,1
+user_0060,27,highschool,Hyderabad,1,senior engineer,company_57,Manufacturing,2016-07-30,2019-02-15,60943,81258,"[""java"", ""testing"", ""sql"", ""cloud"", ""python"", ""kubernetes"", ""machine learning"", ""design"", ""docker""]",31,1
+user_0060,27,highschool,Hyderabad,2,lead engineer,company_53,EdTech,2017-05-25,2020-11-05,68408,91210,"[""communication"", ""python""]",42,0
+user_0060,27,highschool,Hyderabad,3,associate,company_5,EdTech,2018-08-06,2021-01-22,88704,118273,"[""communication"", ""aws"", ""excel"", ""react""]",30,0
+user_0060,27,highschool,Hyderabad,4,analyst,company_77,Healthcare,2019-07-26,2022-05-11,97048,129398,"[""excel"", ""sql"", ""probability"", ""prompting"", ""teamwork"", ""data visualization"", ""tableau""]",34,1
+user_0061,22,bachelor,Hyderabad,0,associate,company_13,Healthcare,2018-01-27,2018-07-26,96863,129151,"[""communication"", ""excel"", ""project management""]",6,1
+user_0061,22,bachelor,Hyderabad,1,product manager,company_43,Retail,2019-01-18,2022-11-28,135859,181146,"[""marketing"", ""excel"", ""project management"", ""sql"", ""react"", ""design""]",47,0
+user_0061,22,bachelor,Hyderabad,2,senior product manager,company_57,Healthcare,2020-01-29,2021-12-19,147691,196922,"[""communication"", ""project management"", ""aws"", ""python"", ""teamwork"", ""design""]",23,1
+user_0061,22,bachelor,Hyderabad,3,data scientist,company_52,Finance,2021-02-19,2022-01-15,158471,211294,"[""testing"", ""aws"", ""sql"", ""python"", ""statistics"", ""machine learning"", ""data visualization"", ""tableau""]",11,0
+user_0062,48,master,Remote,0,junior engineer,company_48,Manufacturing,2015-05-06,2016-01-31,46713,62284,"[""git"", ""testing"", ""python"", ""nlp"", ""data visualization""]",9,1
+user_0062,48,master,Remote,1,engineer,company_74,Finance,2016-06-27,2019-06-12,63553,84738,"[""git"", ""linux"", ""sql"", ""python"", ""machine learning"", ""docker""]",36,0
+user_0063,26,bachelor,Hyderabad,0,intern,company_59,Healthcare,2017-12-22,2019-02-15,23253,31004,"[""communication"", ""marketing"", ""excel"", ""react"", ""python"", ""kubernetes"", ""seo""]",14,0
+user_0063,26,bachelor,Hyderabad,1,junior engineer,company_62,IT,2018-11-22,2022-02-04,40055,53407,"[""communication"", ""git"", ""testing"", ""python"", ""data visualization""]",39,1
+user_0064,47,bachelor,Delhi,0,junior engineer,company_38,Healthcare,2016-01-09,2017-09-30,35037,46716,"[""git"", ""testing"", ""probability"", ""c++"", ""python""]",21,1
+user_0064,47,bachelor,Delhi,1,engineer,company_65,Healthcare,2017-02-05,2017-10-03,56296,75062,"[""testing"", ""linux"", ""docker"", ""kubernetes""]",8,0
+user_0064,47,bachelor,Delhi,2,lead engineer,company_46,Finance,2017-12-10,2018-12-05,81641,108855,"[""communication"", ""design"", ""python"", ""nlp""]",12,1
+user_0064,47,bachelor,Delhi,3,associate,company_75,EdTech,2019-02-24,2021-05-14,93680,124906,"[""excel"", ""communication""]",27,0
+user_0065,26,bachelor,Remote,0,engineer,company_23,Healthcare,2016-10-25,2017-07-22,49923,66564,"[""git"", ""testing"", ""linux"", ""probability"", ""c++"", ""python"", ""docker""]",9,0
+user_0065,26,bachelor,Remote,1,senior engineer,company_55,Manufacturing,2017-10-08,2019-05-01,63685,84914,"[""design"", ""docker""]",19,1
+user_0065,26,bachelor,Remote,2,analyst,company_45,Healthcare,2018-09-03,2019-05-01,109570,146094,"[""excel"", ""sql"", ""nlp"", ""data visualization"", ""tableau""]",8,0
+user_0065,26,bachelor,Remote,3,senior analyst,company_18,Healthcare,2019-11-06,2023-05-19,119713,159618,"[""marketing"", ""excel"", ""sql"", ""powerbi"", ""data visualization""]",43,1
+user_0065,26,bachelor,Remote,4,product manager,company_16,Healthcare,2020-09-26,2022-01-19,134648,179530,"[""project management"", ""marketing""]",16,0
+user_0066,40,bachelor,Pune,0,engineer,company_2,Healthcare,2015-07-02,2016-06-26,47990,63987,"[""git"", ""testing"", ""linux"", ""probability"", ""python"", ""docker"", ""data visualization"", ""tableau""]",12,1
+user_0066,40,bachelor,Pune,1,senior engineer,company_37,IT,2016-06-13,2018-05-04,70129,93506,"[""python"", ""kubernetes""]",23,0
+user_0067,39,bachelor,Mumbai,0,associate,company_15,EdTech,2019-02-01,2021-01-21,90564,120752,"[""excel"", ""communication"", ""python"", ""data visualization""]",24,1
+user_0067,39,bachelor,Mumbai,1,analyst,company_7,IT,2019-12-22,2023-02-04,102806,137074,"[""java"", ""sql"", ""data visualization"", ""tableau""]",38,0
+user_0067,39,bachelor,Mumbai,2,senior product manager,company_22,Healthcare,2021-01-25,2023-03-16,148481,197974,"[""communication"", ""python""]",26,1
+user_0068,48,master,Mumbai,0,junior engineer,company_8,Finance,2015-10-12,2018-04-29,48131,64174,"[""git"", ""testing"", ""python"", ""teamwork"", ""powerbi"", ""tableau""]",31,0
+user_0068,48,master,Mumbai,1,engineer,company_63,IT,2016-11-04,2019-10-20,63288,84385,"[""testing"", ""linux"", ""c++"", ""python"", ""sales"", ""docker""]",36,1
+user_0068,48,master,Mumbai,2,senior engineer,company_62,Healthcare,2017-08-29,2019-06-20,73033,97377,"[""powerbi"", ""testing"", ""nodejs"", ""python"", ""kubernetes"", ""nlp"", ""design"", ""docker"", ""data visualization""]",22,1
+user_0068,48,master,Mumbai,3,lead engineer,company_7,EdTech,2018-12-04,2022-04-17,82704,110272,"[""communication"", ""project management"", ""cloud"", ""python"", ""nlp"", ""design"", ""docker""]",41,0
+user_0069,32,bachelor,Chennai,0,analyst,company_3,IT,2017-10-08,2021-03-21,108306,144409,"[""data visualization"", ""tableau""]",42,1
+user_0069,32,bachelor,Chennai,1,senior analyst,company_7,Finance,2018-09-07,2022-01-19,115201,153602,"[""excel"", ""sql"", ""prompting"", ""kubernetes"", ""powerbi"", ""data visualization""]",41,1
+user_0070,44,bachelor,Hyderabad,0,analyst,company_64,Finance,2015-09-03,2019-08-13,104969,139959,"[""marketing"", ""excel"", ""sql"", ""machine learning"", ""data visualization"", ""tableau""]",48,1
+user_0070,44,bachelor,Hyderabad,1,senior analyst,company_76,IT,2016-11-07,2018-05-01,117964,157286,"[""linux"", ""nodejs"", ""excel"", ""sql"", ""powerbi"", ""data visualization""]",18,1
+user_0070,44,bachelor,Hyderabad,2,product manager,company_50,Retail,2017-11-04,2020-12-18,130684,174246,"[""communication"", ""powerbi"", ""project management"", ""excel"", ""marketing"", ""prompting"", ""teamwork"", ""design""]",38,1
+user_0070,44,bachelor,Hyderabad,3,senior product manager,company_66,Healthcare,2018-10-09,2021-05-26,151179,201572,"[""communication"", ""nodejs"", ""project management"", ""python"", ""statistics"", ""teamwork"", ""design""]",32,1
+user_0071,40,bachelor,Chennai,0,associate,company_75,EdTech,2018-10-25,2022-09-04,90821,121095,"[""excel"", ""communication""]",47,1
+user_0071,40,bachelor,Chennai,1,analyst,company_35,Finance,2019-11-14,2022-07-31,101888,135850,"[""excel"", ""tableau""]",33,1
+user_0071,40,bachelor,Chennai,2,associate,company_50,Finance,2021-01-23,2021-10-20,92551,123402,"[""communication"", ""excel"", ""design"", ""probability"", ""powerbi""]",9,1
+user_0071,40,bachelor,Chennai,3,lead engineer,company_33,Finance,2022-02-03,2024-07-22,80414,107218,"[""communication"", ""design""]",30,1
+user_0072,44,bachelor,Delhi,0,junior engineer,company_72,Healthcare,2016-10-21,2018-03-15,35298,47064,"[""git"", ""testing""]",17,0
+user_0072,44,bachelor,Delhi,1,engineer,company_77,IT,2017-12-11,2019-10-02,47782,63710,"[""git"", ""linux""]",22,1
+user_0072,44,bachelor,Delhi,2,senior engineer,company_54,EdTech,2018-11-06,2022-03-20,66479,88639,"[""machine learning"", ""python"", ""design"", ""testing""]",41,1
+user_0073,27,master,Delhi,0,associate,company_58,Finance,2017-02-14,2018-09-07,103221,137629,"[""communication"", ""excel""]",19,0
+user_0073,27,master,Delhi,1,product manager,company_66,IT,2018-02-25,2019-03-22,141589,188786,"[""communication"", ""deep learning"", ""marketing"", ""excel"", ""project management"", ""probability"", ""design"", ""docker""]",13,0
+user_0073,27,master,Delhi,2,senior product manager,company_56,Retail,2019-04-16,2022-07-29,157262,209683,"[""communication"", ""design"", ""python""]",40,0
+user_0073,27,master,Delhi,3,product manager,company_41,IT,2020-01-11,2022-11-26,140790,187720,"[""communication"", ""java"", ""nodejs"", ""marketing"", ""excel"", ""project management"", ""probability"", ""react"", ""design""]",35,1
+user_0074,20,bachelor,Pune,0,engineer,company_4,Manufacturing,2015-07-02,2016-04-27,52974,70632,"[""git"", ""linux"", ""react"", ""python"", ""prompting"", ""docker""]",10,0
+user_0074,20,bachelor,Pune,1,senior engineer,company_77,Manufacturing,2016-04-20,2018-11-06,69246,92329,"[""testing"", ""project management"", ""python"", ""kubernetes"", ""design""]",31,0
+user_0075,43,master,Delhi,0,junior engineer,company_73,IT,2017-08-18,2021-06-28,48957,65276,"[""git"", ""testing"", ""python"", ""data visualization""]",47,1
+user_0075,43,master,Delhi,1,intern,company_13,Healthcare,2018-06-01,2022-05-11,28892,38523,"[""communication"", ""excel"", ""probability"", ""python"", ""nlp"", ""data visualization""]",48,0
+user_0075,43,master,Delhi,2,senior engineer,company_22,IT,2019-06-26,2022-04-11,73241,97654,"[""nodejs"", ""testing"", ""design"", ""kubernetes""]",34,1
+user_0075,43,master,Delhi,3,lead engineer,company_63,EdTech,2020-05-22,2024-04-01,88330,117774,"[""communication"", ""linux"", ""project management"", ""aws"", ""python"", ""design""]",47,0
+user_0076,39,highschool,Mumbai,0,intern,company_5,EdTech,2016-09-24,2020-07-05,14626,19502,"[""communication"", ""linux"", ""deep learning"", ""project management"", ""excel"", ""python"", ""sales""]",46,1
+user_0076,39,highschool,Mumbai,1,junior engineer,company_47,EdTech,2017-08-31,2020-08-15,29191,38922,"[""git"", ""java"", ""testing"", ""excel"", ""react"", ""python""]",36,0
+user_0076,39,highschool,Mumbai,2,engineer,company_63,Finance,2018-09-18,2020-01-11,48080,64107,"[""python"", ""testing"", ""linux"", ""nlp""]",16,0
+user_0077,27,highschool,Chennai,0,associate,company_49,Healthcare,2017-12-14,2020-10-29,81684,108912,"[""communication"", ""project management"", ""excel"", ""react"", ""machine learning"", ""design""]",35,0
+user_0077,27,highschool,Chennai,1,analyst,company_66,Retail,2018-10-06,2020-05-28,102114,136152,"[""excel"", ""sql"", ""nlp"", ""machine learning"", ""data visualization"", ""tableau""]",20,1
+user_0077,27,highschool,Chennai,2,senior analyst,company_62,Manufacturing,2019-09-11,2021-01-03,113340,151120,"[""excel"", ""c++"", ""powerbi"", ""sql""]",16,0
+user_0077,27,highschool,Chennai,3,product manager,company_8,Finance,2020-11-08,2023-06-26,121830,162440,"[""communication"", ""design"", ""teamwork"", ""marketing""]",32,1
+user_0078,39,phd,Delhi,0,associate,company_34,Finance,2015-07-22,2018-05-07,111543,148724,"[""communication"", ""testing"", ""excel"", ""statistics"", ""data visualization""]",34,1
+user_0078,39,phd,Delhi,1,senior analyst,company_69,EdTech,2016-07-23,2019-01-09,135283,180378,"[""marketing"", ""excel"", ""sql"", ""c++"", ""statistics"", ""powerbi"", ""data visualization""]",30,0
+user_0079,41,bachelor,Pune,0,analyst,company_30,IT,2018-01-27,2020-06-15,102339,136453,"[""excel"", ""sql"", ""cloud"", ""c++"", ""teamwork"", ""data visualization"", ""tableau""]",29,1
+user_0079,41,bachelor,Pune,1,senior analyst,company_1,Manufacturing,2019-02-12,2021-09-29,119000,158667,"[""sql"", ""data visualization""]",32,0
+user_0080,33,bachelor,Chennai,0,engineer,company_33,Healthcare,2016-07-06,2019-10-19,53945,71926,"[""git"", ""testing"", ""linux"", ""c++"", ""python"", ""kubernetes"", ""design"", ""docker""]",40,1
+user_0080,33,bachelor,Chennai,1,engineer,company_44,EdTech,2017-09-05,2018-10-30,49455,65941,"[""git"", ""linux"", ""python"", ""react""]",14,0
+user_0080,33,bachelor,Chennai,2,senior engineer,company_50,Manufacturing,2018-08-23,2019-02-19,62542,83390,"[""testing"", ""excel"", ""sql"", ""python"", ""kubernetes"", ""statistics"", ""design"", ""docker""]",6,1
+user_0080,33,bachelor,Chennai,3,lead engineer,company_47,Finance,2019-06-10,2020-11-01,81989,109318,"[""communication"", ""project management"", ""sql"", ""python"", ""statistics"", ""machine learning"", ""design"", ""data visualization""]",17,0
+user_0080,33,bachelor,Chennai,4,analyst,company_71,Healthcare,2020-07-07,2023-01-23,106906,142542,"[""excel"", ""tableau""]",31,1
+user_0081,46,bachelor,Pune,0,analyst,company_15,EdTech,2017-06-19,2017-12-16,105549,140732,"[""sql"", ""data visualization""]",6,1
+user_0081,46,bachelor,Pune,1,senior product manager,company_49,Retail,2018-07-04,2021-04-19,147760,197013,"[""communication"", ""project management"", ""excel"", ""cloud"", ""python"", ""design""]",34,0
+user_0081,46,bachelor,Pune,2,product manager,company_44,IT,2019-07-18,2021-09-05,134781,179708,"[""communication"", ""powerbi"", ""marketing"", ""project management"", ""design"", ""data visualization""]",26,0
+user_0082,31,bachelor,Pune,0,junior engineer,company_80,Healthcare,2019-06-04,2020-11-25,41557,55410,"[""git"", ""testing"", ""python"", ""prompting""]",18,0
+user_0082,31,bachelor,Pune,1,intern,company_80,Healthcare,2020-07-03,2021-05-29,27963,37285,"[""excel"", ""python""]",11,1
+user_0082,31,bachelor,Pune,2,senior engineer,company_5,EdTech,2021-05-09,2022-10-01,68736,91648,"[""design"", ""python"", ""docker""]",17,1
+user_0082,31,bachelor,Pune,3,lead engineer,company_27,Manufacturing,2022-06-03,2023-10-26,81441,108588,"[""communication"", ""design""]",17,0
+user_0083,39,master,Chennai,0,junior engineer,company_58,Finance,2016-09-03,2020-05-15,46458,61945,"[""git"", ""testing"", ""cloud"", ""react"", ""python"", ""seo""]",45,0
+user_0083,39,master,Chennai,1,senior engineer,company_54,Manufacturing,2017-10-17,2018-10-12,72379,96506,"[""git"", ""testing"", ""python"", ""kubernetes"", ""machine learning"", ""design"", ""docker""]",12,0
+user_0083,39,master,Chennai,2,analyst,company_61,Retail,2018-10-13,2021-10-27,113323,151098,"[""deep learning"", ""excel"", ""sql"", ""cloud"", ""prompting"", ""data visualization"", ""tableau""]",37,0
+user_0083,39,master,Chennai,3,senior analyst,company_78,Finance,2019-08-16,2021-06-06,127722,170296,"[""data visualization"", ""excel"", ""sql"", ""powerbi"", ""seo""]",22,0
+user_0084,31,bachelor,Pune,0,analyst,company_44,Finance,2020-01-06,2022-06-24,105924,141232,"[""excel"", ""sql"", ""machine learning"", ""data visualization"", ""tableau""]",30,1
+user_0084,31,bachelor,Pune,1,senior analyst,company_17,Retail,2021-02-01,2022-12-23,124126,165501,"[""data visualization"", ""excel"", ""sql"", ""python"", ""powerbi"", ""seo""]",23,0
+user_0084,31,bachelor,Pune,2,product manager,company_20,IT,2022-03-25,2023-02-18,131805,175740,"[""communication"", ""project management"", ""excel"", ""marketing"", ""cloud"", ""statistics"", ""design""]",11,1
+user_0084,31,bachelor,Pune,3,senior product manager,company_46,Healthcare,2023-01-26,2025-01-15,148734,198312,"[""communication"", ""design""]",24,1
+user_0084,31,bachelor,Pune,4,data scientist,company_30,IT,2024-04-15,2027-07-29,159716,212955,"[""sql"", ""c++"", ""python"", ""sales"", ""statistics"", ""kubernetes"", ""machine learning"", ""design"", ""data visualization""]",40,1
+user_0085,33,bachelor,Mumbai,0,intern,company_38,EdTech,2018-03-21,2019-05-15,25770,34360,"[""communication"", ""git"", ""nodejs"", ""linux"", ""excel"", ""python""]",14,0
+user_0085,33,bachelor,Mumbai,1,junior engineer,company_34,IT,2019-01-23,2020-07-16,40270,53694,"[""git"", ""testing"", ""python"", ""nlp""]",18,1
+user_0086,44,master,Pune,0,associate,company_59,EdTech,2018-11-24,2022-03-08,99363,132484,"[""excel"", ""probability"", ""communication""]",40,1
+user_0086,44,master,Pune,1,analyst,company_37,Healthcare,2019-11-08,2022-11-22,111668,148891,"[""excel"", ""sql""]",37,0
+user_0086,44,master,Pune,2,senior analyst,company_43,IT,2020-08-21,2022-04-13,123729,164972,"[""git"", ""excel"", ""sql"", ""powerbi"", ""data visualization"", ""tableau""]",20,0
+user_0086,44,master,Pune,3,product manager,company_57,Finance,2021-11-27,2024-06-14,136952,182602,"[""communication"", ""linux"", ""marketing"", ""excel"", ""react"", ""design""]",31,0
+user_0087,43,master,Pune,0,analyst,company_28,IT,2017-06-02,2019-06-22,113663,151551,"[""deep learning"", ""marketing"", ""excel"", ""sql"", ""kubernetes"", ""data visualization"", ""tableau""]",25,0
+user_0087,43,master,Pune,1,analyst,company_61,Retail,2018-03-08,2019-07-01,112970,150627,"[""excel"", ""data visualization""]",16,0
+user_0087,43,master,Pune,2,senior analyst,company_20,Retail,2019-03-18,2020-12-07,124724,166299,"[""excel"", ""sql""]",21,0
+user_0088,27,bachelor,Pune,0,analyst,company_57,EdTech,2019-03-06,2019-10-02,107270,143026,"[""data visualization"", ""tableau""]",7,1
+user_0088,27,bachelor,Pune,1,senior analyst,company_38,Healthcare,2020-04-12,2021-10-04,123555,164740,"[""java"", ""testing"", ""excel"", ""sql"", ""teamwork"", ""powerbi"", ""data visualization""]",18,1
+user_0088,27,bachelor,Pune,2,product manager,company_71,Finance,2021-05-19,2025-02-27,136160,181546,"[""communication"", ""testing"", ""deep learning"", ""marketing"", ""excel"", ""project management"", ""c++"", ""design"", ""data visualization""]",46,1
+user_0088,27,bachelor,Pune,3,senior product manager,company_63,Finance,2022-05-02,2024-06-20,143828,191770,"[""communication"", ""design"", ""project management""]",26,0
+user_0089,40,master,Delhi,0,data scientist,company_63,IT,2018-09-28,2022-04-10,166673,222231,"[""python"", ""sql""]",43,1
+user_0089,40,master,Delhi,1,devops engineer,company_13,Retail,2019-08-16,2022-12-28,196032,261376,"[""communication"", ""git"", ""testing"", ""linux"", ""deep learning"", ""excel"", ""aws"", ""kubernetes"", ""docker""]",41,0
+user_0089,40,master,Delhi,2,engineering manager,company_14,Finance,2020-07-24,2022-01-15,211158,281545,"[""java"", ""nodejs"", ""project management"", ""probability"", ""nlp"", ""machine learning"", ""data visualization"", ""tableau""]",18,0
+user_0089,40,master,Delhi,3,cto,company_42,EdTech,2021-09-02,2023-11-21,219231,292309,"[""communication"", ""powerbi"", ""prompting"", ""python"", ""design""]",27,0
+user_0089,40,master,Delhi,4,cto,company_18,Healthcare,2022-07-27,2025-01-12,225013,300018,"[""communication"", ""testing"", ""python"", ""statistics"", ""design""]",30,0
+user_0090,27,bachelor,Mumbai,0,associate,company_75,Finance,2018-04-13,2021-08-25,96614,128818,"[""communication"", ""excel"", ""cloud"", ""kubernetes"", ""teamwork""]",41,0
+user_0090,27,bachelor,Mumbai,1,analyst,company_23,Manufacturing,2019-03-17,2020-02-10,110111,146815,"[""sql"", ""data visualization""]",11,0
+user_0091,29,highschool,Remote,0,intern,company_49,IT,2019-05-24,2021-08-11,18630,24840,"[""communication"", ""python""]",27,1
+user_0091,29,highschool,Remote,1,junior engineer,company_77,EdTech,2020-06-25,2023-10-08,35329,47106,"[""git"", ""testing"", ""python"", ""linux""]",40,0
+user_0091,29,highschool,Remote,2,engineer,company_34,IT,2021-06-22,2024-01-08,42682,56910,"[""testing"", ""docker""]",31,1
+user_0091,29,highschool,Remote,3,senior engineer,company_74,IT,2022-08-23,2023-10-17,55988,74650,"[""testing"", ""linux"", ""nodejs"", ""python"", ""kubernetes"", ""design"", ""docker"", ""data visualization""]",14,0
+user_0091,29,highschool,Remote,4,senior engineer,company_57,IT,2023-07-01,2025-10-18,56808,75744,"[""testing"", ""kubernetes"", ""statistics"", ""design"", ""docker"", ""teamwork""]",28,0
+user_0092,31,bachelor,Delhi,0,intern,company_61,IT,2019-03-01,2020-11-20,22877,30502,"[""excel"", ""python""]",21,1
+user_0092,31,bachelor,Delhi,1,junior engineer,company_68,IT,2020-05-01,2021-11-22,37205,49606,"[""git"", ""testing"", ""project management"", ""marketing"", ""react"", ""python"", ""data visualization""]",19,1
+user_0093,29,bachelor,Delhi,0,intern,company_50,Finance,2017-11-01,2018-04-30,21681,28909,"[""communication"", ""marketing"", ""excel"", ""python"", ""seo""]",6,1
+user_0093,29,bachelor,Delhi,1,junior engineer,company_32,EdTech,2018-11-08,2019-11-03,38851,51801,"[""git"", ""testing"", ""python"", ""sql""]",12,1
+user_0093,29,bachelor,Delhi,2,engineer,company_36,Finance,2019-09-29,2021-01-21,47970,63961,"[""git"", ""testing"", ""linux"", ""marketing"", ""prompting"", ""python"", ""design"", ""docker""]",16,0
+user_0093,29,bachelor,Delhi,3,senior engineer,company_58,EdTech,2020-09-28,2024-09-07,63223,84297,"[""testing"", ""aws"", ""python"", ""sales"", ""kubernetes"", ""statistics"", ""design"", ""docker""]",48,0
+user_0094,24,bachelor,Delhi,0,junior engineer,company_41,Finance,2016-12-21,2020-03-05,36193,48258,"[""communication"", ""git"", ""testing"", ""design"", ""python"", ""machine learning"", ""powerbi""]",39,0
+user_0094,24,bachelor,Delhi,1,junior engineer,company_4,EdTech,2017-11-15,2019-12-05,40732,54309,"[""git"", ""testing"", ""python"", ""teamwork"", ""machine learning""]",25,1
+user_0094,24,bachelor,Delhi,2,engineer,company_61,Finance,2018-10-23,2022-06-04,51123,68164,"[""git"", ""testing"", ""linux"", ""react"", ""python"", ""c++"", ""docker"", ""seo""]",44,0
+user_0095,21,bachelor,Bangalore,0,analyst,company_52,IT,2016-07-04,2020-06-13,104690,139587,"[""nodejs"", ""marketing"", ""excel"", ""sql"", ""nlp"", ""data visualization"", ""tableau""]",48,1
+user_0095,21,bachelor,Bangalore,1,analyst,company_59,IT,2017-06-17,2020-11-28,110455,147273,"[""excel"", ""sql""]",42,0
+user_0095,21,bachelor,Bangalore,2,senior analyst,company_39,Healthcare,2018-05-20,2019-01-15,123423,164564,"[""excel"", ""powerbi"", ""data visualization"", ""marketing""]",8,1
+user_0095,21,bachelor,Bangalore,3,product manager,company_4,Finance,2019-05-07,2023-01-16,129503,172671,"[""communication"", ""java"", ""nodejs"", ""project management"", ""excel"", ""marketing"", ""design"", ""docker""]",45,1
+user_0096,42,master,Hyderabad,0,associate,company_66,EdTech,2017-01-21,2020-12-01,97817,130423,"[""communication"", ""powerbi"", ""git"", ""excel""]",47,0
+user_0096,42,master,Hyderabad,1,analyst,company_7,Manufacturing,2017-12-12,2018-08-09,111419,148558,"[""excel"", ""linux"", ""sql"", ""data visualization""]",8,1
+user_0097,44,phd,Mumbai,0,intern,company_31,Finance,2015-10-22,2016-04-19,38831,51775,"[""excel"", ""python""]",6,1
+user_0097,44,phd,Mumbai,1,junior engineer,company_8,Retail,2016-11-21,2017-10-17,57465,76620,"[""git"", ""testing"", ""python"", ""teamwork"", ""machine learning""]",11,1
+user_0097,44,phd,Mumbai,2,engineer,company_54,Finance,2018-01-13,2018-09-10,70623,94165,"[""python"", ""docker""]",8,0
+user_0098,41,bachelor,Pune,0,analyst,company_36,Healthcare,2019-05-28,2021-10-14,102228,136304,"[""communication"", ""excel"", ""sql"", ""c++"", ""teamwork"", ""data visualization"", ""tableau""]",29,1
+user_0098,41,bachelor,Pune,1,senior analyst,company_78,Retail,2020-06-11,2022-01-02,116057,154743,"[""powerbi"", ""data visualization""]",19,1
+user_0098,41,bachelor,Pune,2,product manager,company_64,Manufacturing,2021-06-30,2023-08-19,132528,176704,"[""excel"", ""powerbi"", ""design"", ""marketing""]",26,0
+user_0099,42,bachelor,Chennai,0,intern,company_28,IT,2015-04-19,2019-01-28,22438,29918,"[""communication"", ""git"", ""excel"", ""python"", ""kubernetes"", ""design""]",46,0
+user_0099,42,bachelor,Chennai,1,intern,company_44,Manufacturing,2016-05-30,2017-03-26,25237,33650,"[""communication"", ""excel""]",10,0
+user_0100,30,master,Delhi,0,analyst,company_41,EdTech,2019-06-25,2023-05-05,110901,147868,"[""testing"", ""project management"", ""excel"", ""aws"", ""sql"", ""prompting"", ""data visualization"", ""tableau""]",47,0
+user_0100,30,master,Delhi,1,senior analyst,company_15,Healthcare,2020-09-15,2022-12-04,127613,170151,"[""excel"", ""sql"", ""statistics"", ""machine learning"", ""powerbi"", ""data visualization""]",27,1
+user_0100,30,master,Delhi,2,senior analyst,company_5,Finance,2021-08-11,2022-07-07,129728,172971,"[""communication"", ""excel"", ""sql"", ""kubernetes"", ""powerbi"", ""data visualization""]",11,0
+user_0100,30,master,Delhi,3,product manager,company_50,Retail,2022-06-23,2025-06-07,143272,191030,"[""communication"", ""powerbi"", ""java"", ""deep learning"", ""project management"", ""excel"", ""marketing"", ""sql"", ""design""]",36,0
+user_0100,30,master,Delhi,4,senior product manager,company_40,IT,2023-10-17,2024-06-13,158162,210883,"[""communication"", ""design""]",8,1
+user_0101,30,bachelor,Mumbai,0,engineer,company_37,EdTech,2017-01-21,2019-11-07,49434,65912,"[""git"", ""testing"", ""linux"", ""cloud"", ""python"", ""teamwork"", ""docker"", ""tableau""]",34,0
+user_0101,30,bachelor,Mumbai,1,senior engineer,company_77,EdTech,2017-11-23,2021-08-04,66194,88258,"[""testing"", ""nodejs"", ""react"", ""python"", ""kubernetes"", ""machine learning"", ""design"", ""docker""]",45,1
+user_0101,30,bachelor,Mumbai,2,senior engineer,company_40,Retail,2018-11-26,2020-05-19,69066,92088,"[""java"", ""python"", ""docker"", ""kubernetes""]",18,1
+user_0101,30,bachelor,Mumbai,3,lead engineer,company_15,Healthcare,2019-11-12,2021-02-04,78504,104672,"[""communication"", ""project management"", ""excel"", ""c++"", ""python"", ""design""]",15,1
+user_0102,25,bachelor,Mumbai,0,engineer,company_62,Manufacturing,2015-09-19,2016-09-13,52505,70006,"[""git"", ""testing"", ""linux"", ""python"", ""statistics"", ""nlp"", ""machine learning"", ""design"", ""docker""]",12,0
+user_0102,25,bachelor,Mumbai,1,senior engineer,company_74,Manufacturing,2016-11-10,2020-05-23,67556,90075,"[""sales"", ""python"", ""design"", ""testing""]",43,0
+user_0102,25,bachelor,Mumbai,2,lead engineer,company_8,IT,2017-09-26,2019-11-15,82884,110512,"[""communication"", ""project management"", ""probability"", ""c++"", ""python"", ""design"", ""docker""]",26,0
+user_0103,44,bachelor,Chennai,0,engineer,company_2,EdTech,2016-10-07,2020-06-18,56221,74961,"[""git"", ""testing"", ""linux"", ""project management"", ""excel"", ""docker""]",45,1
+user_0103,44,bachelor,Chennai,1,associate,company_31,Manufacturing,2017-08-26,2020-01-13,96292,128390,"[""communication"", ""python"", ""excel"", ""seo""]",29,1
+user_0103,44,bachelor,Chennai,2,analyst,company_37,Retail,2018-10-06,2021-04-23,107325,143101,"[""nodejs"", ""excel"", ""sql"", ""prompting"", ""teamwork"", ""data visualization"", ""tableau""]",31,0
+user_0103,44,bachelor,Chennai,3,senior analyst,company_78,Manufacturing,2019-08-28,2023-07-08,115431,153908,"[""java"", ""data visualization"", ""marketing"", ""excel"", ""sql"", ""powerbi"", ""seo""]",47,0
+user_0103,44,bachelor,Chennai,4,product manager,company_47,IT,2020-10-11,2024-02-23,135335,180447,"[""communication"", ""nodejs"", ""project management"", ""excel"", ""marketing"", ""sales"", ""design""]",41,0
+user_0104,42,bachelor,Pune,0,intern,company_10,Retail,2016-01-19,2019-04-03,24820,33093,"[""communication"", ""excel""]",39,1
+user_0104,42,bachelor,Pune,1,intern,company_5,Retail,2016-12-24,2017-06-22,27612,36817,"[""communication"", ""excel"", ""aws"", ""python"", ""machine learning""]",6,1
+user_0104,42,bachelor,Pune,2,junior engineer,company_36,Healthcare,2017-11-19,2018-08-16,41176,54902,"[""git"", ""testing"", ""excel"", ""python"", ""teamwork"", ""seo""]",9,0
+user_0104,42,bachelor,Pune,3,junior engineer,company_31,Manufacturing,2019-02-03,2020-11-24,34408,45878,"[""git"", ""testing"", ""cloud"", ""python"", ""kubernetes"", ""machine learning""]",22,0
+user_0104,42,bachelor,Pune,4,intern,company_27,EdTech,2019-11-29,2020-10-24,22838,30451,"[""communication"", ""excel"", ""probability"", ""python"", ""machine learning"", ""powerbi""]",11,1
+user_0105,28,master,Bangalore,0,junior engineer,company_19,EdTech,2017-09-28,2020-09-12,45843,61124,"[""git"", ""testing"", ""python"", ""cloud""]",36,1
+user_0105,28,master,Bangalore,1,engineer,company_75,Manufacturing,2018-12-04,2021-09-19,60532,80709,"[""communication"", ""git"", ""testing"", ""linux"", ""cloud"", ""probability"", ""python"", ""docker""]",34,1
+user_0106,27,master,Pune,0,data scientist,company_68,IT,2017-02-16,2018-07-11,167518,223358,"[""python"", ""statistics""]",17,1
+user_0106,27,master,Pune,1,senior data scientist,company_77,Retail,2018-02-22,2020-02-12,180114,240152,"[""python"", ""nlp""]",24,0
+user_0106,27,master,Pune,2,data scientist,company_10,Retail,2018-12-03,2022-07-15,164815,219753,"[""java"", ""aws"", ""sql"", ""python"", ""sales"", ""statistics"", ""machine learning"", ""data visualization""]",44,1
+user_0107,44,bachelor,Delhi,0,associate,company_26,EdTech,2016-03-06,2016-12-31,92288,123051,"[""communication"", ""c++"", ""excel""]",10,1
+user_0107,44,bachelor,Delhi,1,analyst,company_34,IT,2017-01-28,2018-01-23,103821,138428,"[""data visualization"", ""tableau""]",12,0
+user_0107,44,bachelor,Delhi,2,senior analyst,company_50,Healthcare,2018-02-08,2019-11-30,121774,162366,"[""sql"", ""data visualization""]",22,0
+user_0107,44,bachelor,Delhi,3,senior analyst,company_50,Retail,2019-02-08,2019-08-07,122799,163732,"[""excel"", ""sql""]",6,1
+user_0108,37,master,Mumbai,0,associate,company_50,Retail,2017-04-07,2021-01-16,96736,128982,"[""communication"", ""excel"", ""sql"", ""machine learning"", ""design""]",46,0
+user_0108,37,master,Mumbai,1,analyst,company_76,Finance,2018-05-19,2019-05-14,114197,152263,"[""excel"", ""python"", ""sql"", ""data visualization""]",12,1
+user_0108,37,master,Mumbai,2,senior analyst,company_8,Healthcare,2019-07-10,2022-10-22,126936,169249,"[""excel"", ""sql""]",40,0
+user_0108,37,master,Mumbai,3,product manager,company_80,IT,2020-04-26,2024-03-06,143613,191484,"[""communication"", ""marketing"", ""excel"", ""project management"", ""probability"", ""c++"", ""python"", ""sales"", ""design""]",47,0
+user_0109,20,bachelor,Bangalore,0,intern,company_52,Healthcare,2017-10-09,2019-02-01,29414,39219,"[""communication"", ""git"", ""nodejs"", ""excel"", ""prompting"", ""python"", ""docker""]",16,0
+user_0109,20,bachelor,Bangalore,1,engineer,company_57,Finance,2018-09-02,2020-03-25,48371,64495,"[""git"", ""testing"", ""python"", ""machine learning"", ""design"", ""docker""]",19,0
+user_0109,20,bachelor,Bangalore,2,senior engineer,company_23,IT,2019-11-01,2023-08-12,66745,88994,"[""python"", ""kubernetes""]",46,1
+user_0109,20,bachelor,Bangalore,3,lead engineer,company_64,EdTech,2020-11-02,2023-10-18,76571,102094,"[""communication"", ""project management"", ""python"", ""statistics"", ""machine learning"", ""design"", ""tableau""]",36,0
+user_0110,31,bachelor,Pune,0,junior engineer,company_20,Retail,2015-11-04,2016-10-29,39536,52714,"[""communication"", ""git"", ""testing"", ""deep learning"", ""sql"", ""python""]",12,1
+user_0110,31,bachelor,Pune,1,engineer,company_69,Finance,2016-09-17,2020-08-27,48335,64447,"[""communication"", ""git"", ""testing"", ""linux"", ""sql"", ""python"", ""powerbi"", ""docker""]",48,0
+user_0110,31,bachelor,Pune,2,engineer,company_13,Finance,2017-11-01,2018-11-26,48744,64992,"[""communication"", ""git"", ""testing"", ""linux"", ""python"", ""nlp"", ""docker""]",13,1
+user_0111,48,bachelor,Hyderabad,0,intern,company_35,Finance,2020-02-22,2021-05-17,23886,31849,"[""communication"", ""excel"", ""probability"", ""python"", ""kubernetes""]",15,1
+user_0111,48,bachelor,Hyderabad,1,junior engineer,company_78,Finance,2021-03-26,2024-09-06,35079,46772,"[""git"", ""testing"", ""marketing"", ""aws"", ""python"", ""nlp""]",42,0
+user_0111,48,bachelor,Hyderabad,2,engineer,company_56,EdTech,2022-03-08,2023-10-29,48974,65299,"[""git"", ""testing"", ""linux"", ""python"", ""nlp"", ""powerbi"", ""docker"", ""seo""]",20,0
+user_0111,48,bachelor,Hyderabad,3,lead engineer,company_58,Manufacturing,2023-04-23,2026-10-04,74774,99699,"[""communication"", ""git"", ""project management"", ""prompting"", ""python"", ""design"", ""tableau""]",42,0
+user_0111,48,bachelor,Hyderabad,4,associate,company_40,Finance,2024-04-02,2024-09-29,94195,125594,"[""communication"", ""excel""]",6,1
+user_0112,34,bachelor,Chennai,0,junior engineer,company_35,Retail,2019-09-25,2022-02-11,41046,54728,"[""git"", ""testing"", ""nodejs"", ""linux"", ""aws"", ""python""]",29,0
+user_0112,34,bachelor,Chennai,1,intern,company_47,Manufacturing,2020-08-23,2022-11-11,21508,28677,"[""communication"", ""excel""]",27,0
+user_0112,34,bachelor,Chennai,2,junior engineer,company_62,Retail,2021-06-27,2025-05-07,42439,56586,"[""git"", ""probability"", ""testing"", ""python""]",47,0
+user_0112,34,bachelor,Chennai,3,intern,company_58,Manufacturing,2022-07-16,2024-11-02,24642,32856,"[""excel"", ""python""]",28,0
+user_0112,34,bachelor,Chennai,4,junior engineer,company_12,IT,2023-08-12,2026-11-24,38509,51345,"[""git"", ""python""]",40,1
+user_0113,50,phd,Bangalore,0,associate,company_70,Finance,2015-11-15,2017-02-07,109917,146557,"[""excel"", ""communication""]",15,1
+user_0113,50,phd,Bangalore,1,analyst,company_42,Manufacturing,2016-10-12,2020-08-22,116415,155221,"[""probability"", ""sql"", ""data visualization"", ""tableau""]",47,1
+user_0113,50,phd,Bangalore,2,senior analyst,company_22,EdTech,2017-10-28,2018-12-22,134118,178825,"[""java"", ""excel"", ""aws"", ""sql"", ""powerbi"", ""data visualization""]",14,0
+user_0114,25,phd,Remote,0,junior engineer,company_19,Healthcare,2016-05-16,2017-01-11,53268,71024,"[""git"", ""testing"", ""python"", ""kubernetes""]",8,1
+user_0114,25,phd,Remote,1,engineer,company_70,EdTech,2017-05-22,2020-09-03,66546,88728,"[""python"", ""testing"", ""linux""]",40,1
+user_0114,25,phd,Remote,2,engineer,company_15,Healthcare,2018-07-01,2020-06-20,70559,94078,"[""git"", ""testing"", ""linux"", ""python"", ""teamwork"", ""design"", ""docker"", ""data visualization""]",24,0
+user_0115,46,bachelor,Mumbai,0,associate,company_58,Retail,2015-07-09,2019-05-19,91077,121436,"[""communication"", ""design"", ""excel""]",47,0
+user_0115,46,bachelor,Mumbai,1,product manager,company_48,IT,2016-05-16,2019-05-31,133385,177847,"[""marketing"", ""excel"", ""project management"", ""react"", ""kubernetes"", ""design""]",37,1
+user_0116,29,phd,Remote,0,junior engineer,company_12,Finance,2019-05-23,2022-03-08,54728,72970,"[""git"", ""testing"", ""project management"", ""prompting"", ""python"", ""statistics""]",34,0
+user_0116,29,phd,Remote,1,engineer,company_35,Manufacturing,2020-05-20,2023-08-03,67045,89394,"[""testing"", ""python""]",39,0
+user_0117,42,bachelor,Chennai,0,junior engineer,company_1,Finance,2019-10-19,2021-10-08,42366,56488,"[""git"", ""testing"", ""python""]",24,1
+user_0117,42,bachelor,Chennai,1,engineer,company_64,IT,2020-11-20,2024-08-31,54667,72890,"[""communication"", ""git"", ""testing"", ""linux"", ""cloud"", ""python"", ""docker""]",46,1
+user_0117,42,bachelor,Chennai,2,senior engineer,company_34,Finance,2021-11-11,2024-07-28,65002,86670,"[""testing"", ""python""]",33,0
+user_0118,34,master,Chennai,0,junior engineer,company_24,IT,2015-05-23,2017-10-09,47585,63447,"[""git"", ""testing"", ""linux"", ""probability"", ""python""]",29,0
+user_0118,34,master,Chennai,1,engineer,company_63,Manufacturing,2016-08-07,2018-09-26,59338,79118,"[""git"", ""testing"", ""linux"", ""aws"", ""python"", ""kubernetes"", ""docker""]",26,1
+user_0118,34,master,Chennai,2,lead engineer,company_3,Manufacturing,2017-05-01,2018-11-22,84178,112238,"[""communication"", ""project management"", ""prompting"", ""python"", ""sales"", ""teamwork"", ""design""]",19,1
+user_0118,34,master,Chennai,3,associate,company_16,Finance,2018-06-03,2019-07-28,101916,135888,"[""excel"", ""communication"", ""powerbi""]",14,0
+user_0119,42,bachelor,Chennai,0,junior engineer,company_16,Healthcare,2015-08-03,2016-08-27,35345,47127,"[""git"", ""testing"", ""python"", ""c++""]",13,0
+user_0119,42,bachelor,Chennai,1,engineer,company_36,EdTech,2016-09-02,2017-03-01,49122,65497,"[""git"", ""testing"", ""linux"", ""excel"", ""python"", ""teamwork"", ""powerbi"", ""docker"", ""seo""]",6,1
+user_0119,42,bachelor,Chennai,2,senior engineer,company_1,Retail,2017-09-26,2020-11-09,64765,86354,"[""testing"", ""linux"", ""marketing"", ""python"", ""kubernetes"", ""machine learning"", ""design"", ""docker""]",38,0
+user_0120,31,bachelor,Chennai,0,intern,company_64,Healthcare,2016-04-21,2018-08-09,26297,35062,"[""communication"", ""testing"", ""excel"", ""python"", ""teamwork""]",28,1
+user_0120,31,bachelor,Chennai,1,junior engineer,company_55,Finance,2017-01-10,2017-12-06,39037,52050,"[""git"", ""testing"", ""nodejs"", ""aws"", ""python"", ""nlp"", ""design""]",11,0
+user_0120,31,bachelor,Chennai,2,lead engineer,company_14,Retail,2018-05-05,2020-09-21,77343,103124,"[""communication"", ""project management"", ""react"", ""python"", ""design"", ""tableau""]",29,0
+user_0120,31,bachelor,Chennai,3,associate,company_76,Healthcare,2019-01-30,2021-04-19,91152,121537,"[""communication"", ""linux"", ""project management"", ""excel"", ""tableau""]",27,1
+user_0120,31,bachelor,Chennai,4,analyst,company_18,IT,2020-03-30,2023-11-10,107663,143551,"[""excel"", ""sql"", ""probability"", ""c++"", ""nlp"", ""data visualization"", ""tableau""]",44,0
+user_0121,35,bachelor,Chennai,0,engineer,company_44,EdTech,2018-12-03,2020-02-26,52164,69552,"[""git"", ""testing"", ""linux"", ""cloud"", ""c++"", ""python"", ""design"", ""docker""]",15,0
+user_0121,35,bachelor,Chennai,1,lead engineer,company_39,Retail,2019-12-17,2021-01-10,80356,107142,"[""communication"", ""project management""]",13,0
+user_0121,35,bachelor,Chennai,2,associate,company_65,IT,2020-11-08,2022-11-28,93936,125248,"[""communication"", ""excel"", ""machine learning"", ""design"", ""seo""]",25,1
+user_0121,35,bachelor,Chennai,3,analyst,company_44,Manufacturing,2022-01-05,2024-06-23,106901,142534,"[""git"", ""project management"", ""excel"", ""sql"", ""python"", ""powerbi"", ""data visualization"", ""tableau""]",30,0
+user_0121,35,bachelor,Chennai,4,senior analyst,company_69,Healthcare,2022-12-06,2025-07-23,120379,160506,"[""communication"", ""excel"", ""sql"", ""python"", ""machine learning"", ""powerbi"", ""docker"", ""data visualization""]",32,0
+user_0122,47,bachelor,Pune,0,associate,company_44,Finance,2015-05-11,2018-04-25,96869,129159,"[""communication"", ""testing"", ""excel"", ""c++"", ""docker""]",36,1
+user_0122,47,bachelor,Pune,1,analyst,company_29,EdTech,2016-04-06,2017-09-28,109027,145370,"[""git"", ""project management"", ""excel"", ""aws"", ""sql"", ""react"", ""data visualization"", ""tableau""]",18,0
+user_0122,47,bachelor,Pune,2,senior analyst,company_65,Healthcare,2017-02-22,2020-09-04,120166,160221,"[""excel"", ""aws"", ""sql"", ""probability"", ""prompting"", ""powerbi"", ""data visualization""]",43,1
+user_0122,47,bachelor,Pune,3,senior analyst,company_60,Healthcare,2018-03-07,2020-10-22,121131,161509,"[""deep learning"", ""excel"", ""sql"", ""prompting"", ""powerbi"", ""data visualization""]",32,1
+user_0122,47,bachelor,Pune,4,senior product manager,company_53,Healthcare,2019-04-17,2020-10-08,147571,196761,"[""communication"", ""deep learning"", ""project management"", ""probability"", ""python"", ""design""]",18,1
+user_0123,41,bachelor,Hyderabad,0,intern,company_4,Healthcare,2015-11-28,2016-06-25,24320,32427,"[""communication"", ""deep learning"", ""excel"", ""cloud"", ""python"", ""teamwork"", ""machine learning""]",7,1
+user_0123,41,bachelor,Hyderabad,1,intern,company_9,Manufacturing,2017-01-24,2017-09-21,27864,37152,"[""excel"", ""python""]",8,1
+user_0123,41,bachelor,Hyderabad,2,intern,company_64,IT,2017-12-23,2019-02-16,24180,32240,"[""excel"", ""python""]",14,0
+user_0124,44,master,Mumbai,0,junior engineer,company_15,Healthcare,2017-06-12,2018-09-05,42975,57300,"[""git"", ""testing"", ""python"", ""kubernetes"", ""design""]",15,1
+user_0124,44,master,Mumbai,1,engineer,company_7,Retail,2018-06-16,2020-05-06,57036,76048,"[""python"", ""docker""]",23,0
+user_0124,44,master,Mumbai,2,senior engineer,company_51,Healthcare,2019-07-04,2021-07-23,73750,98334,"[""sales"", ""python"", ""docker"", ""kubernetes""]",25,1
+user_0124,44,master,Mumbai,3,lead engineer,company_63,Manufacturing,2020-08-28,2022-05-20,86284,115046,"[""communication"", ""project management"", ""excel"", ""cloud"", ""python"", ""design"", ""seo""]",21,1
+user_0124,44,master,Mumbai,4,senior analyst,company_78,Retail,2021-08-14,2024-04-30,123879,165172,"[""excel"", ""data visualization""]",33,1
+user_0125,20,master,Delhi,0,analyst,company_17,EdTech,2019-08-30,2020-10-23,108945,145260,"[""testing"", ""linux"", ""excel"", ""sql"", ""prompting"", ""data visualization"", ""tableau""]",14,1
+user_0125,20,master,Delhi,1,analyst,company_51,Manufacturing,2020-08-04,2023-07-20,110868,147824,"[""excel"", ""sql"", ""kubernetes"", ""machine learning"", ""data visualization"", ""tableau""]",36,0
+user_0125,20,master,Delhi,2,senior analyst,company_34,Finance,2021-06-10,2024-10-22,125772,167696,"[""excel"", ""statistics"", ""sql"", ""data visualization""]",41,0
+user_0126,50,bachelor,Bangalore,0,analyst,company_27,EdTech,2019-11-16,2022-11-30,103446,137929,"[""nodejs"", ""excel"", ""sql"", ""teamwork"", ""data visualization"", ""tableau""]",37,0
+user_0126,50,bachelor,Bangalore,1,senior product manager,company_59,IT,2020-11-22,2022-05-16,148367,197823,"[""communication"", ""project management"", ""python"", ""kubernetes"", ""design""]",18,0
+user_0126,50,bachelor,Bangalore,2,data scientist,company_46,EdTech,2021-12-10,2024-01-29,161561,215415,"[""sql"", ""c++"", ""python"", ""sales"", ""statistics"", ""nlp"", ""machine learning"", ""docker"", ""data visualization""]",26,0
+user_0126,50,bachelor,Bangalore,3,senior data scientist,company_17,IT,2022-10-24,2026-07-05,174816,233089,"[""java"", ""deep learning"", ""marketing"", ""sales"", ""python"", ""nlp"", ""statistics"", ""docker""]",45,1
+user_0126,50,bachelor,Bangalore,4,senior data scientist,company_34,EdTech,2023-09-08,2025-06-29,170922,227896,"[""deep learning"", ""prompting"", ""python"", ""nlp"", ""statistics""]",22,1
+user_0127,25,bachelor,Hyderabad,0,engineer,company_21,Retail,2020-02-09,2024-01-19,54187,72249,"[""testing"", ""linux""]",48,1
+user_0127,25,bachelor,Hyderabad,1,senior engineer,company_37,Finance,2021-02-04,2024-02-19,61801,82401,"[""testing"", ""deep learning"", ""excel"", ""python"", ""kubernetes"", ""design"", ""docker""]",37,0
+user_0127,25,bachelor,Hyderabad,2,senior engineer,company_4,Healthcare,2021-12-24,2025-12-03,69835,93114,"[""communication"", ""testing"", ""marketing"", ""python"", ""kubernetes"", ""design"", ""docker"", ""data visualization""]",48,0
+user_0128,38,master,Bangalore,0,junior engineer,company_80,Manufacturing,2015-03-11,2018-01-24,48474,64633,"[""git"", ""python""]",35,1
+user_0128,38,master,Bangalore,1,senior engineer,company_52,IT,2016-03-27,2016-12-22,72571,96762,"[""testing"", ""linux"", ""python"", ""kubernetes"", ""nlp"", ""machine learning"", ""design"", ""docker"", ""seo""]",9,0
+user_0128,38,master,Bangalore,2,associate,company_17,Healthcare,2017-04-18,2019-11-04,99601,132801,"[""communication"", ""marketing"", ""excel"", ""statistics"", ""data visualization""]",31,0
+user_0128,38,master,Bangalore,3,senior analyst,company_79,Finance,2018-05-01,2021-02-14,128122,170829,"[""excel"", ""powerbi""]",34,1
+user_0129,21,bachelor,Hyderabad,0,junior engineer,company_32,EdTech,2017-12-17,2021-09-27,41936,55915,"[""git"", ""testing"", ""marketing"", ""aws"", ""python"", ""data visualization""]",46,1
+user_0129,21,bachelor,Hyderabad,1,engineer,company_65,IT,2018-10-17,2022-02-28,48827,65103,"[""git"", ""testing"", ""linux"", ""project management"", ""excel"", ""cloud"", ""python"", ""docker""]",41,0
+user_0129,21,bachelor,Hyderabad,2,engineer,company_34,Healthcare,2019-11-02,2021-03-26,53494,71325,"[""git"", ""testing"", ""linux"", ""statistics"", ""docker""]",17,0
+user_0130,22,master,Pune,0,intern,company_79,Healthcare,2017-08-14,2018-03-12,27985,37314,"[""communication"", ""excel"", ""aws"", ""prompting"", ""python"", ""statistics""]",7,1
+user_0130,22,master,Pune,1,engineer,company_19,Retail,2018-06-23,2019-08-17,55104,73472,"[""git"", ""probability"", ""testing"", ""python""]",14,0
+user_0130,22,master,Pune,2,senior engineer,company_63,Manufacturing,2019-08-26,2022-12-08,71214,94952,"[""powerbi"", ""java"", ""testing"", ""python"", ""kubernetes"", ""design"", ""docker"", ""tableau""]",40,0
+user_0130,22,master,Pune,3,associate,company_64,Retail,2020-07-01,2022-06-21,103796,138394,"[""excel"", ""communication""]",24,1
+user_0131,32,bachelor,Pune,0,junior engineer,company_80,Retail,2019-01-09,2022-03-24,34479,45973,"[""communication"", ""git"", ""testing"", ""c++"", ""python""]",39,1
+user_0131,32,bachelor,Pune,1,engineer,company_50,Manufacturing,2020-02-26,2020-09-23,50078,66771,"[""git"", ""testing"", ""linux"", ""marketing"", ""aws"", ""python"", ""teamwork"", ""docker""]",7,1
+user_0131,32,bachelor,Pune,2,junior engineer,company_63,IT,2021-03-21,2022-10-12,38364,51152,"[""git"", ""testing"", ""python"", ""statistics""]",19,1
+user_0131,32,bachelor,Pune,3,lead engineer,company_65,IT,2022-02-08,2023-10-31,77787,103717,"[""communication"", ""project management"", ""prompting"", ""python"", ""design"", ""seo""]",21,0
+user_0131,32,bachelor,Pune,4,associate,company_72,Healthcare,2023-01-15,2026-09-26,91542,122056,"[""excel"", ""communication"", ""linux"", ""marketing""]",45,0
+user_0132,42,highschool,Hyderabad,0,intern,company_22,Retail,2015-11-13,2019-07-25,22489,29985,"[""communication"", ""python""]",45,0
+user_0132,42,highschool,Hyderabad,1,senior engineer,company_43,Finance,2016-08-24,2018-08-14,60509,80679,"[""testing"", ""design""]",24,0
+user_0132,42,highschool,Hyderabad,2,analyst,company_32,Finance,2017-09-26,2018-03-25,98117,130822,"[""linux"", ""nodejs"", ""excel"", ""sql"", ""kubernetes"", ""data visualization"", ""tableau""]",6,1
+user_0132,42,highschool,Hyderabad,3,associate,company_67,IT,2018-11-14,2021-07-31,87095,116127,"[""communication"", ""java"", ""linux"", ""excel"", ""python"", ""teamwork""]",33,0
+user_0132,42,highschool,Hyderabad,4,analyst,company_52,Retail,2019-09-24,2021-01-16,100899,134533,"[""excel"", ""nodejs"", ""sql"", ""data visualization""]",16,1
+user_0133,49,bachelor,Remote,0,engineer,company_11,IT,2018-09-29,2019-12-23,53656,71541,"[""git"", ""testing"", ""linux"", ""deep learning"", ""marketing"", ""aws"", ""python"", ""docker""]",15,1
+user_0133,49,bachelor,Remote,1,senior engineer,company_76,Healthcare,2019-09-04,2020-10-28,68874,91832,"[""git"", ""testing"", ""marketing"", ""python"", ""kubernetes"", ""design"", ""docker""]",14,0
+user_0133,49,bachelor,Remote,2,analyst,company_74,Retail,2020-09-03,2023-05-21,109150,145533,"[""java"", ""excel"", ""aws"", ""sql"", ""data visualization"", ""tableau""]",33,0
+user_0133,49,bachelor,Remote,3,senior analyst,company_74,Retail,2021-07-03,2025-01-13,123539,164719,"[""git"", ""excel"", ""sql"", ""prompting"", ""powerbi"", ""data visualization"", ""tableau""]",43,0
+user_0134,43,bachelor,Mumbai,0,associate,company_10,Healthcare,2017-07-31,2018-10-24,94476,125968,"[""excel"", ""java"", ""communication""]",15,1
+user_0134,43,bachelor,Mumbai,1,analyst,company_17,Retail,2018-09-23,2021-04-10,105588,140784,"[""java"", ""excel"", ""sql"", ""c++"", ""data visualization"", ""tableau""]",31,0
+user_0134,43,bachelor,Mumbai,2,analyst,company_16,Healthcare,2019-09-17,2020-05-14,104012,138682,"[""testing"", ""excel"", ""sql"", ""teamwork"", ""data visualization"", ""tableau""]",8,1
+user_0135,29,bachelor,Remote,0,junior engineer,company_54,Manufacturing,2019-08-08,2022-03-25,34917,46556,"[""git"", ""testing"", ""excel"", ""sql"", ""python"", ""seo""]",32,1
+user_0135,29,bachelor,Remote,1,engineer,company_58,Finance,2020-09-16,2022-12-05,53262,71017,"[""git"", ""testing"", ""docker"", ""data visualization""]",27,1
+user_0135,29,bachelor,Remote,2,senior engineer,company_12,Finance,2021-08-11,2025-07-21,67239,89653,"[""testing"", ""docker""]",48,0
+user_0136,45,master,Mumbai,0,data scientist,company_32,Retail,2015-07-18,2019-03-29,170889,227852,"[""git"", ""deep learning"", ""sql"", ""cloud"", ""python"", ""statistics"", ""machine learning"", ""data visualization""]",45,1
+user_0136,45,master,Mumbai,1,senior data scientist,company_24,Manufacturing,2016-08-30,2020-04-11,181124,241498,"[""deep learning"", ""statistics""]",44,0
+user_0137,32,bachelor,Bangalore,0,engineer,company_39,Manufacturing,2016-01-16,2017-04-10,50392,67190,"[""git"", ""testing"", ""linux"", ""sql"", ""python"", ""docker"", ""tableau""]",15,0
+user_0137,32,bachelor,Bangalore,1,senior engineer,company_65,Manufacturing,2017-01-31,2019-03-22,65002,86670,"[""testing"", ""design"", ""docker"", ""kubernetes""]",26,0
+user_0138,30,bachelor,Hyderabad,0,analyst,company_65,Finance,2015-04-22,2019-01-31,105146,140194,"[""java"", ""nodejs"", ""project management"", ""excel"", ""sql"", ""data visualization"", ""tableau""]",46,0
+user_0138,30,bachelor,Hyderabad,1,senior analyst,company_38,Retail,2016-03-21,2017-12-11,123125,164167,"[""powerbi"", ""data visualization""]",21,0
+user_0139,49,master,Mumbai,0,analyst,company_16,Finance,2017-04-06,2021-01-15,112036,149382,"[""excel"", ""react"", ""sql"", ""tableau""]",46,1
+user_0139,49,master,Mumbai,1,product manager,company_43,IT,2018-03-08,2021-04-21,140593,187458,"[""communication"", ""java"", ""deep learning"", ""marketing"", ""excel"", ""project management"", ""statistics"", ""design""]",38,0
+user_0139,49,master,Mumbai,2,senior analyst,company_57,Retail,2019-03-07,2022-02-19,122463,163284,"[""powerbi"", ""marketing"", ""excel"", ""sql"", ""prompting"", ""python"", ""design"", ""data visualization""]",36,0
+user_0139,49,master,Mumbai,3,product manager,company_48,Finance,2020-04-02,2022-09-19,144765,193021,"[""communication"", ""excel""]",30,1
+user_0140,43,highschool,Mumbai,0,intern,company_78,Finance,2015-10-16,2019-06-27,17970,23960,"[""excel"", ""python""]",45,0
+user_0140,43,highschool,Mumbai,1,junior engineer,company_9,Finance,2016-10-16,2020-07-27,32840,43786,"[""git"", ""testing"", ""project management"", ""excel"", ""python"", ""teamwork""]",46,1
+user_0140,43,highschool,Mumbai,2,senior engineer,company_42,Manufacturing,2017-10-23,2021-01-05,58044,77392,"[""testing"", ""nodejs"", ""sql"", ""probability"", ""python"", ""kubernetes"", ""design"", ""docker"", ""data visualization""]",39,1
+user_0140,43,highschool,Mumbai,3,lead engineer,company_58,Healthcare,2018-09-28,2021-12-11,74379,99172,"[""communication"", ""design"", ""project management""]",39,0
+user_0141,30,highschool,Pune,0,intern,company_56,IT,2019-01-06,2019-11-02,17185,22914,"[""communication"", ""excel""]",10,1
+user_0141,30,highschool,Pune,1,engineer,company_58,EdTech,2019-11-26,2022-11-10,44014,58686,"[""probability"", ""testing"", ""python"", ""docker""]",36,0
+user_0142,21,master,Hyderabad,0,intern,company_72,IT,2019-06-07,2020-03-03,34416,45888,"[""communication"", ""python""]",9,1
+user_0142,21,master,Hyderabad,1,senior engineer,company_4,Manufacturing,2020-06-02,2024-02-12,74461,99282,"[""communication"", ""testing"", ""marketing"", ""python"", ""kubernetes"", ""statistics"", ""design"", ""docker""]",45,1
+user_0142,21,master,Hyderabad,2,lead engineer,company_54,Manufacturing,2021-06-03,2022-05-29,82080,109441,"[""communication"", ""python"", ""kubernetes"", ""project management""]",12,1
+user_0142,21,master,Hyderabad,3,associate,company_40,EdTech,2022-06-07,2023-02-02,96291,128389,"[""excel"", ""communication"", ""c++"", ""teamwork""]",8,1
+user_0143,20,bachelor,Delhi,0,intern,company_61,Retail,2016-07-04,2019-11-16,21504,28672,"[""communication"", ""python"", ""excel"", ""data visualization""]",41,1
+user_0143,20,bachelor,Delhi,1,junior engineer,company_64,Finance,2017-06-12,2020-12-23,42546,56728,"[""git"", ""python""]",43,0
+user_0143,20,bachelor,Delhi,2,engineer,company_47,IT,2018-05-30,2021-04-14,50842,67790,"[""git"", ""testing"", ""prompting"", ""python"", ""docker""]",35,0
+user_0144,37,bachelor,Mumbai,0,junior engineer,company_32,Finance,2018-09-28,2021-02-14,34847,46462,"[""git"", ""testing"", ""python"", ""design"", ""seo""]",29,0
+user_0144,37,bachelor,Mumbai,1,engineer,company_40,Manufacturing,2019-10-31,2021-08-21,49191,65588,"[""git"", ""linux""]",22,0
+user_0144,37,bachelor,Mumbai,2,senior engineer,company_17,Finance,2020-08-31,2024-08-10,63726,84968,"[""design"", ""python""]",48,0
+user_0144,37,bachelor,Mumbai,3,lead engineer,company_38,Finance,2021-10-11,2024-02-28,79388,105850,"[""communication"", ""project management""]",29,1
+user_0144,37,bachelor,Mumbai,4,associate,company_79,IT,2022-10-03,2024-08-23,90063,120085,"[""communication"", ""git"", ""excel""]",23,0
+user_0145,44,master,Remote,0,analyst,company_31,Manufacturing,2018-01-26,2019-06-20,113644,151526,"[""java"", ""deep learning"", ""marketing"", ""excel"", ""sql"", ""nlp"", ""data visualization"", ""tableau""]",17,0
+user_0145,44,master,Remote,1,senior analyst,company_75,IT,2019-03-21,2021-09-06,130824,174433,"[""java"", ""testing"", ""excel"", ""sql"", ""kubernetes"", ""nlp"", ""powerbi"", ""data visualization""]",30,1
+user_0145,44,master,Remote,2,product manager,company_34,Retail,2020-01-10,2022-09-26,142551,190069,"[""communication"", ""java"", ""marketing"", ""excel"", ""nlp"", ""design""]",33,0
+user_0145,44,master,Remote,3,senior product manager,company_70,Finance,2020-12-07,2022-11-27,156798,209064,"[""communication"", ""project management"", ""sql"", ""python"", ""kubernetes"", ""design""]",24,1
+user_0146,30,bachelor,Delhi,0,junior engineer,company_2,Manufacturing,2019-03-03,2020-04-26,42208,56277,"[""git"", ""testing"", ""project management"", ""prompting"", ""python""]",14,0
+user_0146,30,bachelor,Delhi,1,senior engineer,company_54,Finance,2020-01-14,2021-08-06,68195,90927,"[""testing"", ""nodejs"", ""linux"", ""python"", ""kubernetes"", ""design"", ""docker"", ""tableau""]",19,1
+user_0146,30,bachelor,Delhi,2,lead engineer,company_46,Healthcare,2021-02-24,2021-09-22,80225,106966,"[""communication"", ""python""]",7,0
+user_0146,30,bachelor,Delhi,3,associate,company_43,EdTech,2022-03-12,2024-09-27,96127,128169,"[""communication"", ""excel""]",31,1
+user_0147,50,bachelor,Pune,0,junior engineer,company_78,Manufacturing,2017-09-12,2019-12-01,42597,56796,"[""git"", ""testing"", ""python"", ""prompting""]",27,0
+user_0147,50,bachelor,Pune,1,engineer,company_48,EdTech,2018-09-07,2021-02-23,51885,69180,"[""testing"", ""python""]",30,0
+user_0147,50,bachelor,Pune,2,senior engineer,company_61,Finance,2019-12-18,2022-08-04,66966,89288,"[""testing"", ""nodejs"", ""aws"", ""prompting"", ""python"", ""kubernetes"", ""design"", ""docker""]",32,1
+user_0147,50,bachelor,Pune,3,lead engineer,company_12,Healthcare,2020-11-01,2023-09-17,78760,105014,"[""communication"", ""java"", ""project management"", ""sql"", ""python"", ""design""]",35,1
+user_0147,50,bachelor,Pune,4,associate,company_56,Manufacturing,2021-12-14,2024-01-03,93966,125288,"[""communication"", ""marketing"", ""excel"", ""statistics"", ""powerbi""]",25,1
+user_0148,42,bachelor,Hyderabad,0,junior engineer,company_64,Manufacturing,2020-04-08,2021-08-01,38236,50982,"[""testing"", ""python""]",16,0
+user_0148,42,bachelor,Hyderabad,1,senior engineer,company_60,Manufacturing,2021-03-24,2022-03-19,68637,91516,"[""excel"", ""probability"", ""python"", ""kubernetes"", ""design"", ""docker""]",12,1
+user_0149,32,highschool,Mumbai,0,intern,company_78,IT,2017-01-24,2019-12-10,20647,27530,"[""communication"", ""excel"", ""prompting"", ""python"", ""machine learning""]",35,0
+user_0149,32,highschool,Mumbai,1,junior engineer,company_5,Retail,2018-01-07,2020-07-25,29483,39310,"[""git"", ""testing"", ""python"", ""deep learning""]",31,0
+user_0150,21,master,Remote,0,analyst,company_12,IT,2018-12-23,2021-10-08,109672,146229,"[""excel"", ""deep learning"", ""sql"", ""tableau""]",34,1
+user_0150,21,master,Remote,1,senior analyst,company_14,Healthcare,2019-11-15,2022-02-02,125233,166977,"[""excel"", ""testing"", ""powerbi"", ""sql""]",27,1
+user_0151,26,bachelor,Pune,0,analyst,company_36,Retail,2015-10-04,2017-04-26,103260,137680,"[""excel"", ""sql"", ""nlp"", ""data visualization"", ""tableau""]",19,1
+user_0151,26,bachelor,Pune,1,senior analyst,company_18,Healthcare,2016-12-26,2018-07-19,121261,161682,"[""excel"", ""sql"", ""probability"", ""react"", ""powerbi"", ""data visualization"", ""tableau""]",19,0
+user_0151,26,bachelor,Pune,2,product manager,company_16,Healthcare,2017-10-14,2021-09-23,135809,181078,"[""communication"", ""linux"", ""project management"", ""excel"", ""marketing"", ""python"", ""nlp"", ""statistics"", ""design""]",48,0
+user_0151,26,bachelor,Pune,3,senior analyst,company_77,Manufacturing,2018-11-22,2019-10-18,116082,154777,"[""nlp"", ""powerbi"", ""sql"", ""data visualization""]",11,1
+user_0151,26,bachelor,Pune,4,product manager,company_27,EdTech,2019-10-14,2023-08-24,129283,172377,"[""communication"", ""project management"", ""excel"", ""nlp"", ""design"", ""docker""]",47,0
+user_0152,45,bachelor,Delhi,0,engineer,company_76,EdTech,2020-01-10,2023-03-25,52442,69922,"[""git"", ""testing"", ""linux"", ""excel"", ""python"", ""teamwork"", ""machine learning"", ""docker""]",39,0
+user_0152,45,bachelor,Delhi,1,senior engineer,company_62,IT,2020-12-02,2023-08-19,68086,90782,"[""testing"", ""deep learning"", ""cloud"", ""probability"", ""python"", ""kubernetes"", ""design"", ""docker""]",33,1
+user_0152,45,bachelor,Delhi,2,lead engineer,company_11,Healthcare,2021-12-13,2024-11-27,81207,108277,"[""design"", ""python"", ""nodejs"", ""project management""]",36,0
+user_0153,25,bachelor,Hyderabad,0,analyst,company_48,Manufacturing,2016-09-20,2020-02-02,110636,147514,"[""seo"", ""testing"", ""excel"", ""sql"", ""python"", ""data visualization"", ""tableau""]",41,1
+user_0153,25,bachelor,Hyderabad,1,senior product manager,company_33,Retail,2017-11-06,2020-03-25,147862,197150,"[""communication"", ""linux"", ""deep learning"", ""nodejs"", ""project management"", ""python"", ""design""]",29,1
+user_0153,25,bachelor,Hyderabad,2,data scientist,company_4,Retail,2018-10-04,2022-07-15,161128,214838,"[""sql"", ""probability"", ""python"", ""statistics"", ""machine learning"", ""data visualization"", ""tableau""]",46,0
+user_0153,25,bachelor,Hyderabad,3,senior data scientist,company_50,Manufacturing,2019-09-30,2020-12-23,172949,230599,"[""probability"", ""python"", ""nlp"", ""statistics""]",15,0
+user_0154,26,master,Chennai,0,associate,company_45,Finance,2018-12-25,2022-02-07,103261,137682,"[""communication"", ""linux"", ""project management"", ""excel"", ""probability""]",38,1
+user_0154,26,master,Chennai,1,analyst,company_54,Retail,2020-01-06,2022-01-25,108994,145326,"[""data visualization"", ""tableau""]",25,1
+user_0154,26,master,Chennai,2,associate,company_26,IT,2020-12-08,2023-04-27,98147,130863,"[""communication"", ""deep learning"", ""project management"", ""excel"", ""prompting"", ""machine learning""]",29,0
+user_0154,26,master,Chennai,3,senior analyst,company_16,Healthcare,2021-12-19,2024-08-05,128898,171864,"[""excel"", ""react"", ""powerbi"", ""sql""]",32,0
+user_0154,26,master,Chennai,4,product manager,company_75,IT,2023-01-29,2024-10-20,142946,190594,"[""communication"", ""design""]",21,0
+user_0155,45,highschool,Pune,0,associate,company_52,Manufacturing,2017-12-01,2020-02-19,89911,119882,"[""excel"", ""communication"", ""data visualization"", ""kubernetes""]",27,0
+user_0155,45,highschool,Pune,1,product manager,company_32,Healthcare,2018-12-08,2019-12-03,121545,162060,"[""communication"", ""design"", ""cloud"", ""marketing""]",12,1
+user_0155,45,highschool,Pune,2,senior product manager,company_42,Retail,2019-12-16,2022-11-30,142592,190123,"[""communication"", ""git"", ""powerbi"", ""project management"", ""python"", ""design""]",36,1
+user_0155,45,highschool,Pune,3,data scientist,company_78,Finance,2020-10-27,2023-05-15,149699,199599,"[""machine learning"", ""statistics""]",31,0
+user_0156,24,bachelor,Bangalore,0,engineer,company_12,IT,2020-01-25,2021-05-19,54279,72373,"[""git"", ""linux"", ""docker"", ""tableau""]",16,1
+user_0156,24,bachelor,Bangalore,1,lead engineer,company_43,Finance,2020-12-16,2023-02-04,80354,107139,"[""communication"", ""git"", ""project management"", ""excel"", ""python"", ""design"", ""tableau""]",26,0
+user_0156,24,bachelor,Bangalore,2,lead engineer,company_15,IT,2022-03-22,2024-09-07,82985,110647,"[""communication"", ""design""]",30,1
+user_0156,24,bachelor,Bangalore,3,senior engineer,company_17,EdTech,2023-03-01,2024-03-25,69646,92862,"[""testing"", ""nodejs"", ""linux"", ""python"", ""kubernetes"", ""design"", ""docker""]",13,0
+user_0157,20,bachelor,Hyderabad,0,junior engineer,company_16,Healthcare,2019-11-27,2021-11-16,37427,49903,"[""git"", ""testing"", ""python"", ""aws""]",24,1
+user_0157,20,bachelor,Hyderabad,1,intern,company_23,Manufacturing,2020-09-30,2022-09-20,26253,35005,"[""communication"", ""excel"", ""sales"", ""python""]",24,1
+user_0157,20,bachelor,Hyderabad,2,junior engineer,company_37,Healthcare,2021-11-10,2025-10-20,36547,48729,"[""git"", ""testing"", ""excel"", ""python"", ""powerbi""]",48,0
+user_0157,20,bachelor,Hyderabad,3,engineer,company_21,EdTech,2022-09-17,2023-09-12,49629,66172,"[""testing"", ""linux""]",12,0
+user_0158,35,bachelor,Chennai,0,junior engineer,company_8,IT,2019-10-09,2021-04-01,34334,45778,"[""git"", ""sales"", ""testing"", ""python""]",18,1
+user_0158,35,bachelor,Chennai,1,senior engineer,company_31,Manufacturing,2020-11-02,2021-07-30,62929,83906,"[""communication"", ""python"", ""design"", ""docker""]",9,1
+user_0158,35,bachelor,Chennai,2,lead engineer,company_16,Manufacturing,2021-09-19,2023-02-11,80235,106980,"[""communication"", ""project management"", ""excel"", ""python"", ""design""]",17,0
+user_0159,38,phd,Hyderabad,0,intern,company_69,Finance,2019-08-29,2021-01-20,40761,54348,"[""communication"", ""excel"", ""sales"", ""python"", ""seo"", ""tableau""]",17,1
+user_0159,38,phd,Hyderabad,1,engineer,company_1,EdTech,2020-08-03,2023-12-16,70009,93345,"[""git"", ""testing"", ""linux"", ""python"", ""statistics"", ""machine learning"", ""docker"", ""seo"", ""tableau""]",41,1
+user_0159,38,phd,Hyderabad,2,lead engineer,company_22,Manufacturing,2021-06-19,2022-08-13,97579,130106,"[""communication"", ""project management"", ""python"", ""kubernetes"", ""design""]",14,0
+user_0159,38,phd,Hyderabad,3,associate,company_27,Retail,2022-06-19,2025-09-01,106926,142568,"[""communication"", ""testing"", ""excel"", ""statistics"", ""design""]",39,0
+user_0160,27,highschool,Chennai,0,intern,company_21,Manufacturing,2015-12-18,2019-05-01,16685,22246,"[""communication"", ""marketing"", ""excel"", ""cloud"", ""probability"", ""react"", ""python""]",41,1
+user_0160,27,highschool,Chennai,1,junior engineer,company_66,EdTech,2016-11-02,2019-07-20,29111,38815,"[""git"", ""testing"", ""project management"", ""python"", ""data visualization""]",33,0
+user_0160,27,highschool,Chennai,2,engineer,company_12,Healthcare,2017-10-20,2019-12-09,46893,62524,"[""git"", ""linux"", ""excel"", ""python"", ""docker""]",26,1
+user_0160,27,highschool,Chennai,3,junior engineer,company_76,Manufacturing,2019-01-20,2020-09-11,31034,41379,"[""git"", ""python""]",20,0
+user_0161,42,bachelor,Mumbai,0,engineer,company_20,Retail,2015-11-13,2016-08-09,50217,66956,"[""git"", ""testing"", ""linux"", ""python"", ""docker"", ""data visualization"", ""tableau""]",9,0
+user_0161,42,bachelor,Mumbai,1,senior engineer,company_24,Manufacturing,2016-10-01,2018-08-22,61979,82639,"[""java"", ""testing"", ""docker"", ""kubernetes""]",23,1
+user_0161,42,bachelor,Mumbai,2,lead engineer,company_53,Healthcare,2017-08-26,2019-07-17,81007,108009,"[""communication"", ""design"", ""aws"", ""python""]",23,0
+user_0161,42,bachelor,Mumbai,3,senior engineer,company_18,Manufacturing,2018-10-22,2020-07-13,62580,83440,"[""testing"", ""python"", ""kubernetes"", ""design"", ""docker"", ""data visualization""]",21,1
+user_0162,41,master,Delhi,0,analyst,company_68,Finance,2015-04-17,2016-10-08,109007,145342,"[""excel"", ""sql"", ""data visualization"", ""machine learning""]",18,0
+user_0162,41,master,Delhi,1,senior analyst,company_32,EdTech,2016-05-15,2017-07-09,129974,173299,"[""excel"", ""sales"", ""sql"", ""data visualization""]",14,0
+user_0163,35,bachelor,Chennai,0,engineer,company_1,Healthcare,2017-04-13,2019-05-03,55301,73735,"[""communication"", ""git"", ""testing"", ""linux"", ""aws"", ""python"", ""kubernetes"", ""docker""]",25,0
+user_0163,35,bachelor,Chennai,1,senior engineer,company_20,Retail,2018-03-18,2019-03-13,67552,90069,"[""design"", ""python"", ""docker""]",12,1
+user_0164,32,bachelor,Mumbai,0,junior engineer,company_26,IT,2018-04-16,2020-03-06,35802,47736,"[""git"", ""testing"", ""marketing"", ""python"", ""kubernetes""]",23,0
+user_0164,32,bachelor,Mumbai,1,engineer,company_63,EdTech,2019-01-20,2021-08-07,53908,71877,"[""nodejs"", ""python"", ""testing"", ""linux""]",31,1
+user_0164,32,bachelor,Mumbai,2,senior engineer,company_20,Healthcare,2020-01-19,2022-03-09,67095,89461,"[""python"", ""docker"", ""kubernetes"", ""teamwork""]",26,0
+user_0164,32,bachelor,Mumbai,3,engineer,company_20,Retail,2021-01-08,2023-03-29,54035,72046,"[""git"", ""testing"", ""linux"", ""python"", ""nlp"", ""statistics""]",27,0
+user_0164,32,bachelor,Mumbai,4,senior engineer,company_65,EdTech,2022-04-10,2023-05-05,65085,86780,"[""powerbi"", ""testing"", ""python"", ""docker""]",13,0
+user_0165,47,bachelor,Delhi,0,junior engineer,company_12,IT,2015-09-20,2018-04-07,34765,46353,"[""testing"", ""python""]",31,1
+user_0165,47,bachelor,Delhi,1,engineer,company_32,Healthcare,2016-10-12,2020-07-23,51111,68149,"[""git"", ""testing"", ""linux"", ""nodejs"", ""cloud"", ""python"", ""kubernetes"", ""docker"", ""tableau""]",46,0
+user_0165,47,bachelor,Delhi,2,senior engineer,company_13,Retail,2017-09-03,2018-05-31,65942,87922,"[""communication"", ""testing"", ""aws"", ""python"", ""kubernetes"", ""design"", ""docker""]",9,0
+user_0166,30,bachelor,Remote,0,engineer,company_78,IT,2018-03-06,2020-07-23,51212,68283,"[""git"", ""python""]",29,0
+user_0166,30,bachelor,Remote,1,senior engineer,company_39,Retail,2019-04-14,2023-02-22,64008,85344,"[""testing"", ""kubernetes""]",47,1
+user_0166,30,bachelor,Remote,2,associate,company_16,Manufacturing,2020-02-25,2021-05-20,88845,118460,"[""excel"", ""java"", ""communication"", ""probability""]",15,0
+user_0166,30,bachelor,Remote,3,analyst,company_51,Manufacturing,2021-02-23,2024-04-08,102022,136029,"[""excel"", ""sql"", ""prompting"", ""powerbi"", ""data visualization"", ""tableau""]",38,0
+user_0167,44,bachelor,Pune,0,analyst,company_68,Healthcare,2018-07-01,2020-01-22,104413,139218,"[""data visualization"", ""tableau""]",19,1
+user_0167,44,bachelor,Pune,1,senior product manager,company_36,Finance,2019-08-26,2021-07-16,150341,200455,"[""communication"", ""python"", ""design"", ""marketing""]",23,1
+user_0167,44,bachelor,Pune,2,senior data scientist,company_42,IT,2020-08-17,2022-05-09,172296,229728,"[""nodejs"", ""deep learning"", ""marketing"", ""aws"", ""python"", ""nlp"", ""statistics""]",21,0
+user_0167,44,bachelor,Pune,3,engineering manager,company_35,Finance,2021-08-28,2023-07-19,198805,265074,"[""java"", ""data visualization"", ""cloud"", ""prompting"", ""python"", ""nlp"", ""design"", ""docker"", ""seo""]",23,1
+user_0167,44,bachelor,Pune,4,cto,company_37,IT,2022-06-25,2025-03-11,215135,286846,"[""communication"", ""powerbi"", ""probability"", ""python"", ""machine learning"", ""design""]",33,1
+user_0168,25,master,Delhi,0,intern,company_2,Retail,2015-10-30,2018-07-16,31516,42021,"[""communication"", ""excel"", ""react"", ""python"", ""prompting""]",33,0
+user_0168,25,master,Delhi,1,junior engineer,company_11,Finance,2017-01-26,2017-12-22,45346,60462,"[""git"", ""python""]",11,0
+user_0168,25,master,Delhi,2,engineer,company_70,IT,2017-12-31,2020-10-16,57304,76406,"[""linux"", ""docker""]",34,0
+user_0169,37,bachelor,Pune,0,junior engineer,company_15,Finance,2015-04-29,2016-12-19,34553,46071,"[""git"", ""testing"", ""c++"", ""python"", ""machine learning""]",20,0
+user_0169,37,bachelor,Pune,1,lead engineer,company_55,EdTech,2016-02-17,2016-12-13,79620,106160,"[""design"", ""project management""]",10,1
+user_0169,37,bachelor,Pune,2,associate,company_64,Retail,2017-03-29,2019-12-14,90414,120553,"[""excel"", ""communication"", ""sales"", ""cloud""]",33,1
+user_0169,37,bachelor,Pune,3,senior analyst,company_12,Healthcare,2018-04-12,2018-10-09,117391,156522,"[""excel"", ""sql"", ""cloud"", ""teamwork"", ""powerbi"", ""data visualization""]",6,0
+user_0169,37,bachelor,Pune,4,product manager,company_69,EdTech,2019-02-20,2021-06-09,133407,177877,"[""marketing"", ""excel"", ""project management"", ""c++"", ""design""]",28,1
+user_0170,46,bachelor,Bangalore,0,engineer,company_18,IT,2018-07-06,2020-02-26,48986,65314,"[""testing"", ""linux""]",20,0
+user_0170,46,bachelor,Bangalore,1,associate,company_18,IT,2019-07-15,2020-09-07,92545,123393,"[""communication"", ""excel"", ""sql"", ""prompting"", ""nlp""]",14,0
+user_0170,46,bachelor,Bangalore,2,analyst,company_21,IT,2020-03-31,2022-12-16,107180,142906,"[""data visualization"", ""tableau""]",33,0
+user_0170,46,bachelor,Bangalore,3,senior analyst,company_68,Retail,2021-04-07,2022-12-28,116335,155114,"[""powerbi"", ""sql"", ""data visualization""]",21,1
+user_0170,46,bachelor,Bangalore,4,product manager,company_5,EdTech,2022-06-28,2024-09-15,135246,180328,"[""communication"", ""project management""]",27,0
+user_0171,20,bachelor,Hyderabad,0,engineer,company_17,Retail,2019-04-12,2021-01-31,56134,74846,"[""python"", ""linux"", ""docker"", ""react""]",22,0
+user_0171,20,bachelor,Hyderabad,1,senior engineer,company_41,Retail,2020-01-03,2021-08-25,66984,89312,"[""docker"", ""kubernetes""]",20,1
+user_0171,20,bachelor,Hyderabad,2,associate,company_14,IT,2021-01-01,2023-05-21,94455,125940,"[""communication"", ""excel"", ""aws"", ""nlp"", ""machine learning"", ""design""]",29,0
+user_0171,20,bachelor,Hyderabad,3,analyst,company_62,IT,2022-04-01,2024-04-20,104467,139290,"[""excel"", ""project management"", ""data visualization"", ""tableau""]",25,0
+user_0171,20,bachelor,Hyderabad,4,senior analyst,company_13,Healthcare,2023-04-25,2025-05-14,115324,153765,"[""excel"", ""powerbi"", ""data visualization"", ""teamwork""]",25,1
+user_0172,36,master,Chennai,0,data scientist,company_19,Retail,2019-08-06,2022-07-21,171545,228727,"[""git"", ""sql"", ""probability"", ""python"", ""statistics"", ""machine learning"", ""data visualization""]",36,0
+user_0172,36,master,Chennai,1,engineering manager,company_27,EdTech,2020-08-14,2021-10-08,208398,277864,"[""kubernetes"", ""seo""]",14,0
+user_0173,23,master,Chennai,0,data scientist,company_10,Finance,2020-02-22,2021-01-17,170256,227008,"[""excel"", ""sql"", ""python"", ""kubernetes"", ""machine learning"", ""data visualization""]",11,1
+user_0173,23,master,Chennai,1,senior data scientist,company_17,Manufacturing,2021-01-10,2022-11-01,182917,243890,"[""deep learning"", ""python"", ""sales"", ""nlp"", ""statistics"", ""seo""]",22,1
+user_0173,23,master,Chennai,2,devops engineer,company_72,IT,2022-01-29,2024-03-19,195409,260546,"[""git"", ""linux"", ""aws"", ""prompting"", ""docker"", ""tableau""]",26,0
+user_0173,23,master,Chennai,3,cto,company_60,Retail,2022-12-29,2024-04-22,225306,300409,"[""communication"", ""python""]",16,1
+user_0174,25,master,Hyderabad,0,junior engineer,company_61,Finance,2017-05-14,2018-03-10,46078,61437,"[""git"", ""testing"", ""sql"", ""python"", ""teamwork"", ""design""]",10,0
+user_0174,25,master,Hyderabad,1,engineer,company_11,Finance,2018-04-06,2021-11-16,60507,80676,"[""git"", ""testing"", ""linux"", ""cloud"", ""probability"", ""python"", ""machine learning"", ""docker""]",44,0
+user_0174,25,master,Hyderabad,2,senior engineer,company_39,Finance,2019-04-12,2021-05-01,75056,100075,"[""linux"", ""python"", ""kubernetes"", ""design"", ""docker""]",25,0
+user_0174,25,master,Hyderabad,3,lead engineer,company_75,EdTech,2020-05-24,2023-05-09,88911,118548,"[""communication"", ""powerbi"", ""project management"", ""python"", ""design"", ""data visualization""]",36,0
+user_0174,25,master,Hyderabad,4,associate,company_1,Manufacturing,2021-07-15,2023-09-03,95608,127478,"[""communication"", ""testing"", ""excel"", ""cloud""]",26,0
+user_0175,38,highschool,Chennai,0,associate,company_3,Healthcare,2019-02-04,2020-05-29,89860,119814,"[""excel"", ""communication""]",16,1
+user_0175,38,highschool,Chennai,1,analyst,company_48,Finance,2020-03-17,2021-04-11,101859,135812,"[""java"", ""nodejs"", ""excel"", ""sql"", ""sales"", ""machine learning"", ""data visualization"", ""tableau""]",13,0
+user_0175,38,highschool,Chennai,2,senior analyst,company_12,Retail,2021-01-13,2023-01-03,114450,152600,"[""powerbi"", ""sql""]",24,0
+user_0176,23,bachelor,Remote,0,analyst,company_60,Manufacturing,2018-01-09,2018-09-06,105974,141298,"[""communication"", ""git"", ""excel"", ""sql"", ""kubernetes"", ""data visualization"", ""tableau""]",8,1
+user_0176,23,bachelor,Remote,1,senior analyst,company_48,EdTech,2018-12-13,2020-08-04,122683,163578,"[""git"", ""excel"", ""sql"", ""python"", ""teamwork"", ""powerbi"", ""data visualization""]",20,1
+user_0177,50,bachelor,Hyderabad,0,engineer,company_21,Manufacturing,2017-04-05,2020-12-15,53499,71332,"[""git"", ""testing"", ""linux"", ""marketing"", ""python"", ""docker""]",45,0
+user_0177,50,bachelor,Hyderabad,1,senior engineer,company_56,IT,2018-06-22,2019-08-16,68634,91513,"[""excel"", ""python"", ""kubernetes"", ""design"", ""docker""]",14,0
+user_0177,50,bachelor,Hyderabad,2,lead engineer,company_32,Retail,2019-06-10,2022-09-22,75861,101148,"[""communication"", ""deep learning"", ""project management"", ""aws"", ""python"", ""design""]",40,1
+user_0178,21,bachelor,Chennai,0,engineer,company_27,Manufacturing,2019-11-24,2020-12-18,54469,72626,"[""git"", ""testing"", ""python"", ""kubernetes"", ""docker"", ""seo""]",13,0
+user_0178,21,bachelor,Chennai,1,senior engineer,company_23,Retail,2020-11-12,2023-06-30,62284,83046,"[""testing"", ""aws"", ""python"", ""kubernetes"", ""machine learning"", ""design"", ""docker""]",32,0
+user_0179,30,phd,Hyderabad,0,junior engineer,company_42,Finance,2018-03-08,2019-12-28,50392,67190,"[""communication"", ""git"", ""testing"", ""deep learning"", ""marketing"", ""python""]",22,0
+user_0179,30,phd,Hyderabad,1,engineer,company_33,Finance,2019-03-02,2020-04-25,66045,88060,"[""git"", ""testing"", ""linux"", ""deep learning"", ""react"", ""python"", ""sales"", ""docker""]",14,0
+user_0180,28,phd,Bangalore,0,junior engineer,company_73,Healthcare,2019-07-11,2022-07-25,54990,73321,"[""git"", ""testing"", ""nodejs"", ""deep learning"", ""python""]",37,1
+user_0180,28,phd,Bangalore,1,senior engineer,company_24,Healthcare,2020-08-10,2021-12-03,76097,101463,"[""git"", ""testing"", ""nodejs"", ""python"", ""kubernetes"", ""machine learning"", ""design"", ""docker""]",16,0
+user_0180,28,phd,Bangalore,2,lead engineer,company_42,Finance,2021-09-06,2024-01-24,94584,126112,"[""communication"", ""java"", ""project management"", ""python"", ""design""]",29,0
+user_0180,28,phd,Bangalore,3,associate,company_41,Finance,2022-08-30,2024-03-22,110374,147165,"[""communication"", ""nodejs"", ""linux"", ""excel"", ""docker"", ""data visualization""]",19,0
+user_0181,35,bachelor,Mumbai,0,intern,company_52,IT,2015-11-08,2017-03-02,29567,39423,"[""communication"", ""excel"", ""aws"", ""python"", ""teamwork""]",16,0
+user_0181,35,bachelor,Mumbai,1,junior engineer,company_72,Healthcare,2016-09-13,2017-07-10,41128,54837,"[""git"", ""testing"", ""excel"", ""react"", ""python""]",10,1
+user_0181,35,bachelor,Mumbai,2,junior engineer,company_2,Finance,2017-10-19,2020-09-03,41473,55298,"[""git"", ""testing"", ""sql"", ""python"", ""nlp""]",35,0
+user_0181,35,bachelor,Mumbai,3,lead engineer,company_7,Healthcare,2018-10-09,2020-02-01,75997,101330,"[""communication"", ""git"", ""marketing"", ""project management"", ""sql"", ""python"", ""design""]",16,0
+user_0181,35,bachelor,Mumbai,4,associate,company_75,Manufacturing,2019-12-08,2023-08-19,93796,125061,"[""communication"", ""linux"", ""excel"", ""teamwork"", ""docker"", ""seo""]",45,1
+user_0182,36,bachelor,Hyderabad,0,associate,company_27,Retail,2017-01-27,2020-01-12,91530,122040,"[""excel"", ""communication""]",36,0
+user_0182,36,bachelor,Hyderabad,1,analyst,company_68,EdTech,2017-12-23,2018-09-19,104832,139777,"[""deep learning"", ""project management"", ""excel"", ""sql"", ""prompting"", ""data visualization"", ""tableau""]",9,1
+user_0182,36,bachelor,Hyderabad,2,analyst,company_80,EdTech,2019-01-19,2021-12-04,103970,138627,"[""seo"", ""sql"", ""data visualization"", ""tableau""]",35,0
+user_0182,36,bachelor,Hyderabad,3,associate,company_14,Retail,2019-10-29,2021-09-18,94437,125917,"[""communication"", ""excel""]",23,0
+user_0182,36,bachelor,Hyderabad,4,analyst,company_20,Manufacturing,2021-02-11,2023-12-28,104457,139276,"[""nodejs"", ""deep learning"", ""excel"", ""sql"", ""kubernetes"", ""data visualization"", ""tableau""]",35,1
+user_0183,21,bachelor,Mumbai,0,intern,company_7,Retail,2018-10-08,2021-06-24,23559,31412,"[""excel"", ""communication"", ""python"", ""data visualization""]",33,0
+user_0183,21,bachelor,Mumbai,1,engineer,company_80,Retail,2019-09-04,2020-05-31,48225,64300,"[""git"", ""linux""]",9,1
+user_0184,23,bachelor,Remote,0,analyst,company_65,Retail,2016-03-18,2017-10-09,106825,142434,"[""excel"", ""tableau""]",19,1
+user_0184,23,bachelor,Remote,1,senior analyst,company_34,IT,2017-03-27,2018-07-20,119845,159794,"[""excel"", ""sql"", ""python"", ""machine learning"", ""powerbi"", ""docker"", ""data visualization""]",16,0
+user_0184,23,bachelor,Remote,2,analyst,company_65,Finance,2018-05-12,2020-08-29,108686,144915,"[""testing"", ""excel"", ""sql"", ""prompting"", ""nlp"", ""data visualization"", ""tableau""]",28,0
+user_0184,23,bachelor,Remote,3,associate,company_46,Healthcare,2019-04-04,2021-06-22,94873,126498,"[""communication"", ""java"", ""excel"", ""prompting"", ""python""]",27,1
+user_0185,23,bachelor,Pune,0,junior engineer,company_14,Healthcare,2017-08-07,2019-03-30,36288,48384,"[""git"", ""testing"", ""deep learning"", ""react"", ""sales"", ""python""]",20,1
+user_0185,23,bachelor,Pune,1,senior engineer,company_56,Manufacturing,2018-05-23,2020-09-09,66083,88111,"[""communication"", ""testing"", ""python"", ""docker""]",28,1
+user_0186,20,bachelor,Delhi,0,analyst,company_37,EdTech,2018-11-14,2022-01-27,105972,141296,"[""java"", ""deep learning"", ""excel"", ""sql"", ""data visualization"", ""tableau""]",39,0
+user_0186,20,bachelor,Delhi,1,senior analyst,company_35,Finance,2019-12-04,2020-06-01,121545,162060,"[""excel"", ""sql"", ""powerbi"", ""data visualization"", ""tableau""]",6,0
+user_0186,20,bachelor,Delhi,2,product manager,company_13,Healthcare,2021-02-19,2022-01-15,132987,177316,"[""excel"", ""project management"", ""marketing""]",11,1
+user_0187,25,bachelor,Delhi,0,engineer,company_49,Manufacturing,2016-01-08,2017-07-01,51386,68515,"[""git"", ""testing"", ""linux"", ""python"", ""machine learning"", ""design""]",18,0
+user_0187,25,bachelor,Delhi,1,senior engineer,company_72,IT,2016-12-07,2019-01-26,68628,91504,"[""java"", ""testing"", ""python"", ""kubernetes"", ""design"", ""docker""]",26,1
+user_0187,25,bachelor,Delhi,2,lead engineer,company_52,Retail,2017-10-29,2021-07-10,79158,105544,"[""communication"", ""design"", ""teamwork"", ""project management""]",45,0
+user_0187,25,bachelor,Delhi,3,associate,company_38,EdTech,2019-01-17,2022-04-01,94986,126648,"[""excel"", ""communication""]",39,1
+user_0188,23,master,Delhi,0,junior engineer,company_63,EdTech,2017-12-11,2021-04-24,48703,64938,"[""git"", ""testing"", ""python""]",41,0
+user_0188,23,master,Delhi,1,engineer,company_65,Manufacturing,2018-11-23,2020-02-16,63802,85070,"[""testing"", ""python""]",15,1
+user_0189,23,bachelor,Hyderabad,0,junior engineer,company_31,Finance,2020-01-06,2023-04-20,38037,50716,"[""git"", ""testing"", ""probability"", ""python"", ""teamwork"", ""machine learning""]",40,0
+user_0189,23,bachelor,Hyderabad,1,engineer,company_59,IT,2020-10-26,2022-10-16,49174,65565,"[""git"", ""testing"", ""linux"", ""aws"", ""python"", ""teamwork"", ""docker""]",24,1
+user_0189,23,bachelor,Hyderabad,2,senior engineer,company_68,Manufacturing,2021-10-27,2022-06-24,67753,90338,"[""testing"", ""marketing"", ""python"", ""kubernetes"", ""design"", ""docker"", ""tableau""]",8,0
+user_0190,24,bachelor,Delhi,0,analyst,company_24,EdTech,2019-04-23,2020-06-16,105804,141072,"[""excel"", ""sql"", ""c++"", ""statistics"", ""data visualization"", ""tableau""]",14,1
+user_0190,24,bachelor,Delhi,1,senior analyst,company_21,Finance,2020-02-14,2023-08-27,123762,165016,"[""powerbi"", ""sql""]",43,0
+user_0190,24,bachelor,Delhi,2,senior analyst,company_54,IT,2021-05-02,2024-04-16,119971,159962,"[""excel"", ""linux"", ""powerbi"", ""sql""]",36,0
+user_0190,24,bachelor,Delhi,3,analyst,company_14,Retail,2022-01-07,2022-11-03,108210,144280,"[""sql"", ""tableau""]",10,1
+user_0191,40,bachelor,Chennai,0,associate,company_13,Finance,2017-11-27,2019-11-17,91524,122032,"[""communication"", ""project management"", ""excel"", ""probability"", ""python"", ""data visualization""]",24,0
+user_0191,40,bachelor,Chennai,1,senior analyst,company_72,Finance,2018-11-17,2021-07-04,123579,164772,"[""testing"", ""marketing"", ""excel"", ""sql"", ""kubernetes"", ""statistics"", ""powerbi"", ""data visualization""]",32,0
+user_0191,40,bachelor,Chennai,2,product manager,company_70,Healthcare,2019-12-21,2022-06-08,129744,172993,"[""communication"", ""project management"", ""excel"", ""marketing"", ""sql"", ""statistics""]",30,0
+user_0192,50,bachelor,Remote,0,analyst,company_4,IT,2019-01-25,2019-11-21,104027,138703,"[""project management"", ""excel"", ""sql"", ""cloud"", ""c++"", ""sales"", ""data visualization"", ""tableau""]",10,1
+user_0192,50,bachelor,Remote,1,senior analyst,company_79,Retail,2020-01-05,2022-03-25,116075,154767,"[""git"", ""project management"", ""excel"", ""sql"", ""powerbi"", ""data visualization""]",27,0
+user_0192,50,bachelor,Remote,2,product manager,company_45,Manufacturing,2020-12-19,2023-08-06,137520,183360,"[""communication"", ""testing"", ""marketing"", ""excel"", ""project management"", ""sql"", ""c++"", ""nlp"", ""design""]",32,1
+user_0192,50,bachelor,Remote,3,senior product manager,company_62,IT,2022-03-28,2023-11-18,142515,190021,"[""communication"", ""design"", ""python""]",20,1
+user_0193,24,bachelor,Hyderabad,0,intern,company_12,EdTech,2017-06-30,2021-03-11,26121,34828,"[""communication"", ""python""]",45,0
+user_0193,24,bachelor,Hyderabad,1,junior engineer,company_57,Finance,2018-09-18,2021-12-31,42575,56767,"[""git"", ""testing"", ""python"", ""teamwork""]",40,1
+user_0193,24,bachelor,Hyderabad,2,engineer,company_33,EdTech,2019-07-29,2023-03-10,51300,68401,"[""python"", ""docker""]",44,0
+user_0194,43,master,Remote,0,analyst,company_53,Retail,2019-02-07,2021-06-26,117030,156040,"[""marketing"", ""excel"", ""sql"", ""kubernetes"", ""data visualization"", ""tableau""]",29,1
+user_0194,43,master,Remote,1,senior analyst,company_19,IT,2020-01-26,2021-03-21,130081,173442,"[""powerbi"", ""data visualization""]",14,0
+user_0194,43,master,Remote,2,product manager,company_79,Manufacturing,2021-04-06,2024-02-20,137583,183445,"[""communication"", ""project management"", ""excel"", ""marketing"", ""sql"", ""cloud""]",35,1
+user_0195,32,bachelor,Bangalore,0,junior engineer,company_76,Finance,2017-03-10,2021-02-17,40555,54074,"[""git"", ""testing"", ""python"", ""linux""]",48,0
+user_0195,32,bachelor,Bangalore,1,engineer,company_37,EdTech,2018-06-01,2022-02-10,54099,72133,"[""testing"", ""python""]",45,1
+user_0195,32,bachelor,Bangalore,2,senior engineer,company_36,IT,2019-05-18,2022-10-29,68850,91801,"[""git"", ""python"", ""design"", ""kubernetes""]",42,0
+user_0196,30,bachelor,Bangalore,0,associate,company_57,IT,2016-09-26,2018-07-18,97164,129553,"[""excel"", ""java"", ""communication"", ""python""]",22,1
+user_0196,30,bachelor,Bangalore,1,analyst,company_36,Healthcare,2017-08-18,2020-08-02,109907,146542,"[""linux"", ""excel"", ""sql"", ""cloud"", ""data visualization"", ""tableau""]",36,1
+user_0196,30,bachelor,Bangalore,2,senior analyst,company_65,Manufacturing,2018-09-22,2020-02-14,117365,156487,"[""powerbi"", ""sql""]",17,1
+user_0196,30,bachelor,Bangalore,3,product manager,company_10,EdTech,2019-10-03,2021-05-25,129596,172795,"[""communication"", ""marketing"", ""excel"", ""kubernetes"", ""design""]",20,1
+user_0197,22,bachelor,Mumbai,0,analyst,company_4,Finance,2015-08-17,2018-05-03,105874,141165,"[""excel"", ""aws"", ""sql"", ""statistics"", ""data visualization"", ""tableau""]",33,1
+user_0197,22,bachelor,Mumbai,1,senior analyst,company_20,Manufacturing,2016-09-22,2017-12-16,123917,165223,"[""excel"", ""powerbi"", ""sql"", ""data visualization""]",15,0
+user_0197,22,bachelor,Mumbai,2,senior product manager,company_74,Healthcare,2017-08-06,2020-09-19,150669,200893,"[""communication"", ""deep learning"", ""project management"", ""cloud"", ""prompting"", ""python"", ""design"", ""docker""]",38,0
+user_0197,22,bachelor,Mumbai,3,data scientist,company_46,EdTech,2018-09-05,2021-01-22,159103,212138,"[""excel"", ""data visualization"", ""sql"", ""statistics""]",29,0
+user_0198,39,bachelor,Remote,0,junior engineer,company_11,Manufacturing,2018-06-25,2019-08-19,42127,56169,"[""communication"", ""git"", ""testing"", ""aws"", ""python"", ""docker""]",14,1
+user_0198,39,bachelor,Remote,1,engineer,company_61,Retail,2019-03-30,2022-09-10,54986,73315,"[""git"", ""testing"", ""linux"", ""python"", ""design"", ""docker"", ""tableau""]",42,0
+user_0198,39,bachelor,Remote,2,senior engineer,company_16,Healthcare,2020-03-15,2022-11-30,61552,82070,"[""testing"", ""aws"", ""python"", ""kubernetes"", ""nlp"", ""design"", ""docker"", ""tableau""]",33,1
+user_0198,39,bachelor,Remote,3,lead engineer,company_18,Retail,2021-05-28,2022-05-23,75366,100489,"[""communication"", ""linux"", ""project management"", ""c++"", ""python"", ""design"", ""tableau""]",12,0
+user_0198,39,bachelor,Remote,4,associate,company_76,Healthcare,2022-07-06,2025-08-19,89434,119246,"[""communication"", ""java"", ""testing"", ""excel"", ""machine learning""]",38,0
+user_0199,35,bachelor,Pune,0,associate,company_79,Healthcare,2016-12-11,2019-01-30,90830,121107,"[""excel"", ""communication"", ""project management""]",26,0
+user_0199,35,bachelor,Pune,1,analyst,company_30,Retail,2017-11-13,2018-12-08,105944,141259,"[""excel"", ""sales"", ""sql"", ""data visualization""]",13,1
+user_0199,35,bachelor,Pune,2,senior analyst,company_63,IT,2018-11-18,2022-04-01,122700,163600,"[""excel"", ""sql""]",41,1
+user_0199,35,bachelor,Pune,3,product manager,company_34,IT,2020-02-20,2023-08-03,134988,179984,"[""communication"", ""nodejs"", ""project management"", ""excel"", ""marketing"", ""c++"", ""design""]",42,0
+user_0199,35,bachelor,Pune,4,data scientist,company_5,Manufacturing,2020-12-06,2021-11-01,158979,211972,"[""python"", ""statistics"", ""machine learning"", ""docker"", ""data visualization"", ""tableau""]",11,0
