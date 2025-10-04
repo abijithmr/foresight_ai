@@ -6,7 +6,7 @@ import joblib
 import numpy as np
 import os
 from typing import Dict, Union
-from flask_host_restrict import host_restrict
+
 
 # --- CONFIGURATION (Paths updated to load models from the 'models' subdirectory) ---
 MODEL_DIR = "models"
@@ -117,11 +117,7 @@ def predict_future_twin(user_input_data: Dict[str, Union[int, float, str]], proj
 
 # --- 3. FLASK APP SETUP ---
 app = Flask(__name__)
-if not app.debug:
-    host_restrict.HostRestrict(app,[
-        "https://foresight-ai.onrender.com"
 
-    ])
 CORS(app) # Crucial for allowing Flutter (frontend) to connect
 
 @app.route('/predict_twin', methods=['POST'])
