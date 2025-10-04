@@ -85,20 +85,7 @@ class PredictionResult {
 
 // Determine the correct IP based on the environment
 String getApiUrl() {
-  const String port = '5000';
-  String ip;
-
-  if (Platform.isAndroid) {
-    // Android emulator access local host via 10.0.2.2
-    ip = '192.168.137.94';
-  } else if (Platform.isIOS) {
-    ip = '127.0.0.1';
-  } else {
-    // Desktop/Web
-    ip = '127.0.0.1';
-  }
-
-  return 'http://$ip:$port/predict_twin';
+  return 'https://foresight-ai.onrender.com/foresight_ai';
 }
 
 Future<PredictionResult> fetchPrediction(UserProfile userProfile, int projectionMonths) async {
