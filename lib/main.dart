@@ -85,7 +85,7 @@ class PredictionResult {
 
 // Determine the correct IP based on the environment
 String getApiUrl() {
-  return 'https://foresight-ai.onrender.com/foresight_ai';
+  return 'https://foresight-ai.onrender.com/predict_twin';
 }
 
 Future<PredictionResult> fetchPrediction(UserProfile userProfile, int projectionMonths) async {
